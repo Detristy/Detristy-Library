@@ -1,0 +1,27 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/hotkeys.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/snippets/
+.obsidian/*.json.bak
+.obsidian/*.json.rej
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Trash
+.trash/
+.Trash-*
+
+# Git
+.git/
