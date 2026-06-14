@@ -8,5 +8,5 @@ v. 忽视
 Fail to care for properly; pay insufficient attention to.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Parents should not **neglect** their childrens emotional needs.*
 

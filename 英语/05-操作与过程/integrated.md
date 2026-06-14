@@ -8,5 +8,5 @@ adj. 整合的
 Combined into a single, unified whole.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The new system features an **integrated** approach to data management.*
 

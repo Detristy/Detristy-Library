@@ -8,5 +8,5 @@ adj. 认知的,知晓的
 Having knowledge or being aware of something.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The management is fully **cognizant** of the challenges ahead.*
 

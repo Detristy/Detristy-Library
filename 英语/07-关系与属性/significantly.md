@@ -8,5 +8,5 @@ adv. 显著地
 In a sufficiently great or important way as to be worthy of attention.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Test scores improved **significantly** after the intervention program.*
 

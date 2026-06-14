@@ -8,5 +8,5 @@ v. 操纵
 Handle or control, typically in a skilful or devious manner.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Researchers must not **manipulate** data to fit their hypotheses.*
 

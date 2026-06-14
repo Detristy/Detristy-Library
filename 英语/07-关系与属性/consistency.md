@@ -8,5 +8,5 @@ n. 一致性
 Conformity in the application of something, or agreement between things.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The **consistency** of her academic performance is truly impressive.*
 

@@ -8,5 +8,5 @@ adv. 线性地
 In a straight line; in a linear manner.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The population has been growing **linearly** over the past decade.*
 

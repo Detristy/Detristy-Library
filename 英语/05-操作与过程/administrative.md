@@ -8,5 +8,5 @@ adj. 行政的
 Relating to the running of a business or organization.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The **administrative** staff handle the day-to-day operations of the office.*
 

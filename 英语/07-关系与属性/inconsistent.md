@@ -8,5 +8,5 @@ adj. 不一致的
 Not staying the same throughout; contradictory.
 
 # 例句
-*（派生词，参考主词条用法）*
+*His statements were **inconsistent** with the evidence presented in court.*
 

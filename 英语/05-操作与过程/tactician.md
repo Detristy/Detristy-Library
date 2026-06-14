@@ -8,5 +8,5 @@ n. 战术家
 A person skilled in planning tactics.
 
 # 例句
-*（派生词，参考主词条用法）*
+*He is known as a brilliant **tactician** in the field of military strategy.*
 

@@ -8,5 +8,5 @@ v. 修改
 Make partial or minor changes to something.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Researchers had to **modify** the experimental design due to constraints.*
 

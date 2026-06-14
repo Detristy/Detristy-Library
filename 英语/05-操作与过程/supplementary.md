@@ -8,5 +8,5 @@ adj. 补充的
 Completing or enhancing something.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The professor provided **supplementary** materials for students who wanted to explore further.*
 

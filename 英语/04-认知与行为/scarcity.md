@@ -8,5 +8,5 @@ n. 稀缺
 The state of being in short supply; shortage.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Water **scarcity** is becoming a critical issue in many parts of the world.*
 

@@ -8,5 +8,5 @@ adj. 最近的
 Closest in relationship; immediate.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The **proximate** cause of the accident was identified as brake failure.*
 

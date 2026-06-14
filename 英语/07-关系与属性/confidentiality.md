@@ -8,5 +8,5 @@ n. 机密性
 The state of keeping something secret or private.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Doctors have a legal obligation to maintain patient **confidentiality**.*
 

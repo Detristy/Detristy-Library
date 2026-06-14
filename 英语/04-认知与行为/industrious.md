@@ -8,5 +8,5 @@ adj. 勤奋的
 Diligent and hard-working.
 
 # 例句
-*（派生词，参考主词条用法）*
+*She is one of the most **industrious** researchers in the department.*
 

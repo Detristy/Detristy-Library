@@ -8,5 +8,5 @@ n. 评级
 A classification or ranking of someone or something based on a comparative assessment.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The app received a high **rating** from users.*
 

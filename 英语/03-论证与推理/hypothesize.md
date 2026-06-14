@@ -8,5 +8,5 @@ v. 假设
 Put something forward as a hypothesis.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Scientists **hypothesize** that the anomaly is caused by a previously unknown particle.*
 

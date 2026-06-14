@@ -8,5 +8,5 @@ n. 侵略
 Hostile or violent behavior or attitudes.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The study examined the link between video games and **aggression** in adolescents.*
 

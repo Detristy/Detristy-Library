@@ -8,5 +8,5 @@ n. 手术
 The treatment of injuries or disorders by incision or manipulation.
 
 # 例句
-*（派生词，参考主词条用法）*
+*She is recovering well after the heart **surgery**.*
 

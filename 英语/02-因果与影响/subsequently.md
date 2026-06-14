@@ -8,5 +8,5 @@ adv. 随后
 After a particular thing has happened; afterwards.
 
 # 例句
-*（派生词，参考主词条用法）*
+*She graduated in 2020 and **subsequently** pursued a doctoral degree.*
 

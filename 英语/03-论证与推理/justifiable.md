@@ -8,5 +8,5 @@ adj. 有理由的
 Able to be shown to be right or reasonable; defensible.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The use of force was deemed **justifiable** under the circumstances.*
 

@@ -8,5 +8,5 @@ adj. 比较的
 Measured or judged by comparison; relative.
 
 # 例句
-*（派生词，参考主词条用法）*
+*A **comparative** analysis of the two treatment methods was conducted.*
 

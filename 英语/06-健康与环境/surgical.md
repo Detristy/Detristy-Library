@@ -8,5 +8,5 @@ adj. 外科的
 Relating to or used in surgery.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The patient underwent a **surgical** procedure to remove the tumor.*
 

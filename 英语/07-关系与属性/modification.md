@@ -8,5 +8,5 @@ n. 修改
 The action of modifying something.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Minor **modification** to the protocol improved the results significantly.*
 

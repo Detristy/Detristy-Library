@@ -8,5 +8,5 @@ n. 逆境
 Difficulties or misfortune.
 
 # 例句
-*（派生词，参考主词条用法）*
+*She showed remarkable resilience in the face of **adversity**.*
 

@@ -8,5 +8,5 @@ adj. 操纵的
 Exercising unscrupulous control or influence.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The media was accused of using **manipulative** tactics to sway public opinion.*
 

@@ -8,5 +8,5 @@ adj. 机械的
 Operated by a machine or machinery; lacking thought.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The device uses a simple **mechanical** system rather than electronic components.*
 

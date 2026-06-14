@@ -8,5 +8,5 @@ v. 保证
 Tell someone something positively to dispel any doubts.
 
 # 例句
-*（派生词，参考主词条用法）*
+*I can **assure** you that all safety protocols have been followed.*
 

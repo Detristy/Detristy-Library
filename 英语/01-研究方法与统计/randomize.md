@@ -8,5 +8,5 @@ v. 使随机化
 Make something random in order or arrangement.
 
 # 例句
-*（派生词，参考主词条用法）*
+*We need to **randomize** the order of the questions to avoid bias.*
 

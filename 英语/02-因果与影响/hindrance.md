@@ -8,5 +8,5 @@ n. 障碍
 A thing that provides resistance, delay, or obstruction.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Bureaucratic red tape is a major **hindrance** to economic development.*
 

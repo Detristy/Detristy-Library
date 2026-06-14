@@ -8,5 +8,5 @@ n. 推测
 The forming of a theory without firm evidence.
 
 # 例句
-*（派生词，参考主词条用法）*
+*There is widespread **speculation** about the CEO's sudden resignation.*
 

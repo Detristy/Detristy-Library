@@ -8,5 +8,5 @@ n. 疏忽
 Failure to take proper care in doing something.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The accident was caused by gross **negligence** on the part of the contractor.*
 

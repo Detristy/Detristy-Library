@@ -8,5 +8,5 @@ adj. 波动的
 Rising and falling irregularly.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The patient has had **fluctuating** blood pressure throughout the day.*
 

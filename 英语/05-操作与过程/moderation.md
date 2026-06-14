@@ -8,5 +8,5 @@ n. 适度
 The avoidance of excess or extremes.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The key to a healthy lifestyle is **moderation** in all things.*
 

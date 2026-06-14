@@ -8,5 +8,5 @@ adj. 频繁的
 Occurring or done on many occasions, in many cases, or in quick succession.
 
 # 例句
-*（派生词，参考主词条用法）*
+*Headaches are a **frequent** side effect of this medication.*
 

@@ -8,5 +8,5 @@ n. 意图
 A thing intended; an aim or plan.
 
 # 例句
-*（派生词，参考主词条用法）*
+*It was never my **intention** to offend anyone with my remarks.*
 

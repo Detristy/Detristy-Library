@@ -8,5 +8,5 @@ adj. 不足的
 Small or insufficient in quantity or amount.
 
 # 例句
-*（派生词，参考主词条用法）*
+*The available data on the phenomenon remains **scanty**.*
 
