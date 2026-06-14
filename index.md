@@ -21,6 +21,13 @@
 
 （待索引）
 
-## 500 英语
+## 英语
 
-（待索引）
+- **01-研究方法与统计** — correlate, designate, empirical, falsify, frequency, indicate, invalid, linear, methodology, modular, monitor, nonlinear, phase, proportion, questionnaire, random, rate, scale, valid 等
+- **02-因果与影响** — adverse, deplete, detriment, exert, hinder, immediate effects, immortal, impair, jeopardize, mediate, mortal, plague, pose, premature, subsequent 等
+- **03-论证与推理** — ambiguity, ascertain, assure, contradict, demonstrate, hypothesis, implication, integral, justify, merit, misconception, neglect, presume, reiterate, speculate 等
+- **04-认知与行为** — affect, appreciate, cognition, cognizant, faculty, familiar, industrious, intend, irritability, scant, spontaneous, tedious 等
+- **05-操作与过程** — administer, consensus, implement, initiate, integrate, intervene, manipulate, mechanism, moderate, perform, procedure, proceed, supplement, sustain, tactic, undergo 等
+- **06-健康与环境** — acid rain, aggression, fast, hospital, postsurgical, prevail, radiate, relief, surgery 等
+- **07-关系与属性** — amenable, analogous, approximately, consistent, coexist, comparative, confidential, fluctuate, fortify, generic, inconsistent, modify, proximate, significant, virtual, with respect to 等
+- **08-短语与搭配** — a constellation of, an array of, be labelled as, be responsible for 等
