@@ -9,4 +9,3 @@ Have a mutual relationship or connection.
 
 # 例句
 *Stress levels often **correlate** with decreased immune function.*
-

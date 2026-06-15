@@ -9,4 +9,3 @@ Not according with truth or fact; incorrect.
 
 # 例句
 *The witness was charged with giving **false** testimony.*
-

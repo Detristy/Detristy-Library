@@ -9,4 +9,3 @@ Serving to demonstrate or prove something.
 
 # 例句
 *The teacher used **demonstrative** examples to illustrate the concept.*
-

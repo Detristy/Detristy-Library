@@ -9,4 +9,3 @@ Too large or too small in comparison with something else.
 
 # 例句
 *Minorities face a **disproportionate** share of environmental hazards.*
-

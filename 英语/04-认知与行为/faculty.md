@@ -9,4 +9,3 @@ An inherent mental or physical power; a department in a university.
 
 # 例句
 *He joined the **faculty** of medicine as a professor in 2018.*
-

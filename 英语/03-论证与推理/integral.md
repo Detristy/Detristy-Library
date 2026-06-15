@@ -9,4 +9,3 @@ Necessary to make a whole complete; essential.
 
 # 例句
 *Teamwork is an **integral** part of the companys culture.*
-

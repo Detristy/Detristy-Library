@@ -9,4 +9,3 @@ The treatment of injuries or disorders by incision or manipulation.
 
 # 例句
 *She is recovering well after the heart **surgery**.*
-

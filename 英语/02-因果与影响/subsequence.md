@@ -9,4 +9,3 @@ A subsequent event or development.
 
 # 例句
 *In **subsequence**, the company expanded its operations to Europe.*
-

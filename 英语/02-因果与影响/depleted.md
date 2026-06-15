@@ -9,4 +9,3 @@ Having been used up or reduced in quantity.
 
 # 例句
 *The **depleted** ozone layer is slowly recovering.*
-

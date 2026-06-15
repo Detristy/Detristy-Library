@@ -9,4 +9,3 @@ Combined into a single, unified whole.
 
 # 例句
 *The new system features an **integrated** approach to data management.*
-

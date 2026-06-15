@@ -9,4 +9,3 @@ Deserving reward or praise.
 
 # 例句
 *The scientist received an award for her **meritorious** contributions to the field.*
-

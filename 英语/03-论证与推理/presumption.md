@@ -9,4 +9,3 @@ An idea that is taken to be true on the basis of probability.
 
 # 例句
 *The legal system operates on the **presumption** of innocence.*
-

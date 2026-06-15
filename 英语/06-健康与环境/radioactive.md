@@ -9,4 +9,3 @@ Emitting or relating to the emission of ionizing radiation.
 
 # 例句
 *Proper handling of **radioactive** materials is essential for laboratory safety.*
-

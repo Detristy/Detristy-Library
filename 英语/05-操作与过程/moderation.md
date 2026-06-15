@@ -9,4 +9,3 @@ The avoidance of excess or extremes.
 
 # 例句
 *The key to a healthy lifestyle is **moderation** in all things.*
-

@@ -9,4 +9,3 @@ The fact or state of being inconsistent.
 
 # 例句
 *The **inconsistency** in the data suggests a measurement error.*
-

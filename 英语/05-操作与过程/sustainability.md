@@ -9,4 +9,3 @@ The ability to be maintained at a certain rate or level.
 
 # 例句
 *Environmental **sustainability** should be a priority for all businesses.*
-

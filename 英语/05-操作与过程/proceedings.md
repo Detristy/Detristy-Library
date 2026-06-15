@@ -9,4 +9,3 @@ An event or a series of activities with a set procedure.
 
 # 例句
 *The **proceedings** of the conference will be published next month.*
-

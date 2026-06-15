@@ -9,4 +9,3 @@ Behavior showing high moral standards; a good quality.
 
 # 例句
 *Patience is a **virtue** highly valued in scientific research.*
-

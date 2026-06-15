@@ -9,4 +9,3 @@ Give someone knowledge or understanding of something.
 
 # 例句
 *New employees should **familiarize** themselves with the safety procedures.*
-

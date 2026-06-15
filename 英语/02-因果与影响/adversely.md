@@ -9,4 +9,3 @@ In a way that prevents success or development; harmfully.
 
 # 例句
 *Poor nutrition can **adversely** affect a childs cognitive development.*
-

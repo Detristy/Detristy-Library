@@ -9,4 +9,3 @@ Constructed with standardized units or dimensions for flexibility.
 
 # 例句
 *The course adopts a **modular** structure, allowing flexible learning paths.*
-

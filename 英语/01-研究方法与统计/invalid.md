@@ -9,4 +9,3 @@ Not valid, in particular not legally binding or acceptable.
 
 # 例句
 *The survey results were considered **invalid** due to sampling errors.*
-

@@ -9,4 +9,3 @@ Fail to care for properly; pay insufficient attention to.
 
 # 例句
 *Parents should not **neglect** their childrens emotional needs.*
-

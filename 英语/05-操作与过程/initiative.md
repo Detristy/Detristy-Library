@@ -9,4 +9,3 @@ The ability to assess and initiate things independently.
 
 # 例句
 *The student showed great **initiative** by starting a research club.*
-

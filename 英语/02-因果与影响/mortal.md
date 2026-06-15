@@ -9,4 +9,3 @@ Subject to death; destined to die.
 
 # 例句
 *All human beings are **mortal** and must face death eventually.*
-

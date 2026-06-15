@@ -9,4 +9,3 @@ In a hostile or forceful manner.
 
 # 例句
 *The cancer cells multiplied **aggressively**, requiring immediate treatment.*
-

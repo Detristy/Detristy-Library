@@ -9,4 +9,3 @@ In a way that is based on observation or experience rather than theory.
 
 # 例句
 *The hypothesis has not been **empirically** tested.*
-

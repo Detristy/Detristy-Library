@@ -18,24 +18,33 @@ https://www.luogu.com.cn/problem/AT_abc253_d
 大体思路有了我们来写式子。
 
 小于 $N$ 的最大的 $A$ 的倍数为：
+
 $$
-	\left\lfloor  \frac{N}{A}  \right\rfloor A
+\left\lfloor  \frac{N}{A}  \right\rfloor A
 $$
+
 我们对所有的小于 $N$ 的 $A$ 的倍数求和：
+
 $$
-	\sum_{k=1}^{\left\lfloor  \frac{N}{A}  \right\rfloor}kA
+\sum_{k=1}^{\left\lfloor  \frac{N}{A}  \right\rfloor}kA
 $$
+
 同理可以求出小于$N$ 的 $B$ 的倍数之和：
+
 $$
-	\sum_{k=1}^{\left\lfloor  \frac{N}{B}  \right\rfloor}kB
+\sum_{k=1}^{\left\lfloor  \frac{N}{B}  \right\rfloor}kB
 $$
+
 然后求出小于 $N$ 的既是 $A$ 的倍数又是 $B$ 的倍数（即 $A$ 和 $B$ 的最小公倍数）之和：
+
 $$
-	\sum_{k=1}^{\left\lfloor  \frac{N}{\mathrm{lcm}(A,B)}  \right\rfloor}k\mathrm{lcm}(A,B)
+\sum_{k=1}^{\left\lfloor  \frac{N}{\mathrm{lcm}(A,B)}  \right\rfloor}k\mathrm{lcm}(A,B)
 $$
+
 于是最终的答案为：
+
 $$
-	\sum_{i=1}^Ni-\sum_{k=1}^{\left\lfloor  \frac{N}{A}  \right\rfloor}kA-\sum_{k=1}^{\left\lfloor  \frac{N}{B}  \right\rfloor}kB+\sum_{k=1}^{\left\lfloor  \frac{N}{\mathrm{lcm}(A,B)}  \right\rfloor}k\mathrm{lcm}(A,B)
+\sum_{i=1}^Ni-\sum_{k=1}^{\left\lfloor  \frac{N}{A}  \right\rfloor}kA-\sum_{k=1}^{\left\lfloor  \frac{N}{B}  \right\rfloor}kB+\sum_{k=1}^{\left\lfloor  \frac{N}{\mathrm{lcm}(A,B)}  \right\rfloor}k\mathrm{lcm}(A,B)
 $$
 
 # 代码

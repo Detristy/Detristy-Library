@@ -9,4 +9,3 @@ Confident; guaranteed.
 
 # 例句
 *Rest **assured** that your investment is in good hands.*
-

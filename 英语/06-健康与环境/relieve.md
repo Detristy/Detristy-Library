@@ -9,4 +9,3 @@ Cause pain or distress to become less severe; alleviate.
 
 # 例句
 *This medication can **relieve** symptoms within 30 minutes.*
-

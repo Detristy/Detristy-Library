@@ -9,4 +9,3 @@ The forming of a theory without firm evidence.
 
 # 例句
 *There is widespread **speculation** about the CEO's sudden resignation.*
-

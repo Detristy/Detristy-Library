@@ -9,4 +9,3 @@ Emit energy in the form of rays or waves.
 
 # 例句
 *The sun continues to **radiate** enormous amounts of energy.*
-

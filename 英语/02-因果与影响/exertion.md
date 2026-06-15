@@ -9,4 +9,3 @@ Physical or mental effort; the application of a force.
 
 # 例句
 *Physical **exertion** should be avoided during recovery.*
-

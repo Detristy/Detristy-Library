@@ -9,4 +9,3 @@ An irregular rising and falling in number or amount.
 
 # 例句
 *The stock market experienced significant **fluctuation** following the announcement.*
-

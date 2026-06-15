@@ -9,4 +9,3 @@ Living forever; never dying or decaying.
 
 # 例句
 *The artist achieved **immortal** fame through his masterpieces.*
-

@@ -9,4 +9,3 @@ Alter information or evidence so as to mislead; prove a statement false.
 
 # 例句
 *It is unethical to **falsify** data in scientific research.*
-

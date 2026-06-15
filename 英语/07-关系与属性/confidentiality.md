@@ -9,4 +9,3 @@ The state of keeping something secret or private.
 
 # 例句
 *Doctors have a legal obligation to maintain patient **confidentiality**.*
-

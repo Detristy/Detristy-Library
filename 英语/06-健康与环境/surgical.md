@@ -9,4 +9,3 @@ Relating to or used in surgery.
 
 # 例句
 *The patient underwent a **surgical** procedure to remove the tumor.*
-

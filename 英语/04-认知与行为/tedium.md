@@ -9,4 +9,3 @@ The state of being tedious; monotony.
 
 # 例句
 *Automation can relieve workers from the **tedium** of repetitive tasks.*
-

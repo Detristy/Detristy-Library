@@ -9,4 +9,3 @@ The action of showing something to be right or reasonable.
 
 # 例句
 *There is no scientific **justification** for this claim.*
-

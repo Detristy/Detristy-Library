@@ -9,4 +9,3 @@ Strongly suggest the truth or existence of something.
 
 # 例句
 *His silence seemed to **imply** consent to the proposal.*
-

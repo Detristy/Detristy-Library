@@ -9,4 +9,3 @@ Measured or judged by comparison; relative.
 
 # 例句
 *A **comparative** analysis of the two treatment methods was conducted.*
-

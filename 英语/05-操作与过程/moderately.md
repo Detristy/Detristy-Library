@@ -9,4 +9,3 @@ To a certain extent; quite; fairly.
 
 # 例句
 *The economy is expected to grow **moderately** over the next quarter.*
-

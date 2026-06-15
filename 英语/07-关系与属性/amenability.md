@@ -9,4 +9,3 @@ The quality of being open to suggestion or easily managed.
 
 # 例句
 *The patients **amenability** to treatment was a positive prognostic factor.*
-

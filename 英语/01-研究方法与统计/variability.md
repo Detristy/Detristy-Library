@@ -9,4 +9,3 @@ The quality of being subject to variation or change.
 
 # 例句
 *Genetic **variability** is essential for species survival.*
-

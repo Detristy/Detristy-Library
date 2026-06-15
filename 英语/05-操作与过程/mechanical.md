@@ -9,4 +9,3 @@ Operated by a machine or machinery; lacking thought.
 
 # 例句
 *The device uses a simple **mechanical** system rather than electronic components.*
-

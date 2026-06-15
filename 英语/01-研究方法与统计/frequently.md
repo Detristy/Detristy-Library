@@ -9,4 +9,3 @@ Regularly or habitually; often.
 
 # 例句
 *The equipment should be **frequently** inspected for safety.*
-

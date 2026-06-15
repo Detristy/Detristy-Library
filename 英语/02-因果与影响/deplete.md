@@ -9,4 +9,3 @@ Use up the supply or resources of.
 
 # 例句
 *Overfishing can quickly **deplete** marine resources.*
-

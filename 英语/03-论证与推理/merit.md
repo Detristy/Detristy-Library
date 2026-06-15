@@ -9,4 +9,3 @@ The quality of being particularly good or worthy.
 
 # 例句
 *Each application will be judged on its own **merit**.*
-

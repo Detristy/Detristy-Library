@@ -20,13 +20,16 @@ https://www.luogu.com.cn/problem/AT_abc262_d
 
 接下来我们从小到达枚举 $i$ ，考虑第 $i$ 个数选不选：
 1. 选，那么：
-	$$
-		dp[i][j][k] = dp[i-1][j-1][(k-a[i]\%p+p)\%p]
-	$$
+
+$$
+dp[i][j][k] = dp[i-1][j-1][(k-a[i]\%p+p)\%p]
+$$
+
 2. 不选，那么：
-	$$
-		dp[i][j][k] = dp[i-1][j][k]
-	$$
+
+$$
+dp[i][j][k] = dp[i-1][j][k]
+$$
 
 那么 $dp[n][p][0]$ 就是方案数。
 

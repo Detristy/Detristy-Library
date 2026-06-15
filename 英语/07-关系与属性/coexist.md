@@ -9,4 +9,3 @@ Exist at the same time or in the same place.
 
 # 例句
 *Different species can **coexist** in the same ecosystem through niche differentiation.*
-

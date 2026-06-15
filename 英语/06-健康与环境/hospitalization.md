@@ -9,4 +9,3 @@ Admission to a hospital for treatment.
 
 # 例句
 *Severe cases may require **hospitalization** for intensive treatment.*
-

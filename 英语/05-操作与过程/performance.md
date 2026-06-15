@@ -9,4 +9,3 @@ The action or process of carrying out or accomplishing something.
 
 # 例句
 *The **performance** of the new algorithm exceeded all expectations.*
-

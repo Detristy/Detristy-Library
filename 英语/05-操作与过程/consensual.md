@@ -9,4 +9,3 @@ Relating to or involving consent or consensus.
 
 # 例句
 *Research involving human subjects must be based on **consensual** participation.*
-

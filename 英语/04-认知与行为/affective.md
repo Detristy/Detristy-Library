@@ -9,4 +9,3 @@ Relating to moods, feelings, and attitudes.
 
 # 例句
 *The patient showed signs of **affective** disorder after the traumatic event.*
-

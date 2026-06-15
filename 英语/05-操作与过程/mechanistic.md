@@ -9,4 +9,3 @@ Relating to theories that explain phenomena by physical causes.
 
 # 例句
 *A purely **mechanistic** view of biology fails to capture the complexity of life.*
-

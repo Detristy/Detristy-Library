@@ -9,4 +9,3 @@ Of, based on, or serving as a hypothesis.
 
 # 例句
 *The professor posed a **hypothetical** scenario to stimulate discussion.*
-

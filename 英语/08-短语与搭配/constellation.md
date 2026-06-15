@@ -9,4 +9,3 @@ A group of stars forming a recognizable pattern; a group of associated things.
 
 # 例句
 *The **constellation** Orion is visible in the winter night sky.*
-

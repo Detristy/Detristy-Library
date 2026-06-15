@@ -9,4 +9,3 @@ The action of choosing someone or something for a particular purpose.
 
 # 例句
 *The buildings **designation** as a heritage site protects it from demolition.*
-

@@ -9,4 +9,3 @@ Exercising unscrupulous control or influence.
 
 # 例句
 *The media was accused of using **manipulative** tactics to sway public opinion.*
-

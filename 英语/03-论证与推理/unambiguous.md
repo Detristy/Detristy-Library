@@ -9,4 +9,3 @@ Not open to more than one interpretation.
 
 # 例句
 *The results provide **unambiguous** evidence for the effectiveness of the vaccine.*
-

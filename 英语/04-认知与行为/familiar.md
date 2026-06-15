@@ -9,4 +9,3 @@ Well known from long or close association.
 
 # 例句
 *Most students are already **familiar** with basic statistical concepts.*
-

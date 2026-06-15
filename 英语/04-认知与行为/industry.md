@@ -9,4 +9,3 @@ Hard work; economic activity concerned with processing raw materials.
 
 # 例句
 *The automobile **industry** is undergoing a major transformation toward electric vehicles.*
-

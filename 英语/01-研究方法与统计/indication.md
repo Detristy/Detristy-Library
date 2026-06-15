@@ -9,4 +9,3 @@ A sign or piece of information that indicates something.
 
 # 例句
 *Rising temperatures are an **indication** of climate change.*
-

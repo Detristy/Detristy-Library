@@ -9,4 +9,3 @@ A classification or ranking of someone or something based on a comparative asses
 
 # 例句
 *The app received a high **rating** from users.*
-

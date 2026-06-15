@@ -9,4 +9,3 @@ In a straight line; in a linear manner.
 
 # 例句
 *The population has been growing **linearly** over the past decade.*
-

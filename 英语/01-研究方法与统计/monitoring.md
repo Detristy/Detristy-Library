@@ -9,4 +9,3 @@ The act of observing and checking the progress of something over time.
 
 # 例句
 *Continuous **monitoring** of the patients vital signs is required.*
-

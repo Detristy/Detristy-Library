@@ -9,4 +9,3 @@ The action of repeating something for emphasis or clarity.
 
 # 例句
 *The policy requires **reiteration** at every staff meeting.*
-

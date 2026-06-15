@@ -9,4 +9,3 @@ Estimate or measure the similarity or dissimilarity between.
 
 # 例句
 *It is useful to **compare** the results with those from previous studies.*
-

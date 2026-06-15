@@ -9,4 +9,3 @@ Performed or occurring without external cause or premeditation.
 
 # 例句
 *The audience gave a **spontaneous** round of applause at the end.*
-

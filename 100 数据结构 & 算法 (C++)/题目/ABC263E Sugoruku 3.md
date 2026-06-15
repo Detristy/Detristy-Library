@@ -20,18 +20,23 @@ https://www.luogu.com.cn/problem/AT_abc263_e
 接下来我们来推导状态转移方程：
 
 假设当前处在第 $i$ 格，掷骰子以固定的 $\frac{1}{A_{i}+1}$ 的概率（骰子有 $A_{i}+1$ 面）掷到了 $k$ ，向前走 $k$ 格走到第 $i+k$ 格，此时第 $i$ 格的期望就可以被第 $i+k$ 格的期望所转移过来，对于每一个骰子上的每一个数都是如此，于是加上这一步的代价 $1$ ，就有：
+
 $$
-	dp_{i}=1+\sum\limits_{k=0}^{A_{i}} \frac{1}{A_{i}+1}dp_{i+k}
+dp_{i}=1+\sum\limits_{k=0}^{A_{i}} \frac{1}{A_{i}+1}dp_{i+k}
 $$
+
 我们将 $k=0$ 的情况单独分离出来：
+
 $$
-	dp_{i}=1+\frac{1}{A_{i}+1}dp_{i}+\sum\limits_{k=1}^{A_{i}} \frac{1}{A_{i}+1}dp_{i+k}
+dp_{i}=1+\frac{1}{A_{i}+1}dp_{i}+\sum\limits_{k=1}^{A_{i}} \frac{1}{A_{i}+1}dp_{i+k}
 $$
 
 接着我们可以整理得到：
+
 $$
-	dp_{i}=\frac{A_{i}+1+\sum\limits_{k=1}^{A_{i}}dp_{i+k}}{A_{i}}
+dp_{i}=\frac{A_{i}+1+\sum\limits_{k=1}^{A_{i}}dp_{i+k}}{A_{i}}
 $$
+
 我们只需要处理 $\sum\limits_{k=1}^{A_{i}}dp_{i+k}$ 就可以了，我们可以用前缀和来优化。
 特殊考虑一下 $dp_{n}$ ，显然地，$dp_{n} = 0$ 。
 

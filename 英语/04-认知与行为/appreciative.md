@@ -9,4 +9,3 @@ Feeling or showing gratitude or pleasure.
 
 # 例句
 *The speaker was **appreciative** of the audiences engagement.*
-

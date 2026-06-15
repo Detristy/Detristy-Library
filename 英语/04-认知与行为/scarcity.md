@@ -9,4 +9,3 @@ The state of being in short supply; shortage.
 
 # 例句
 *Water **scarcity** is becoming a critical issue in many parts of the world.*
-

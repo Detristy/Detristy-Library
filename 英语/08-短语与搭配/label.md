@@ -9,4 +9,3 @@ Assign to a category, especially inaccurately or restrictively.
 
 # 例句
 *Critics **label** the policy as short-sighted and ineffective.*
-

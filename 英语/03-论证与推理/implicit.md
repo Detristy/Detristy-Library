@@ -9,4 +9,3 @@ Suggested though not directly expressed.
 
 # 例句
 *There is an **implicit** understanding between the two parties.*
-

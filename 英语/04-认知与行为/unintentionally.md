@@ -9,4 +9,3 @@ Not on purpose; accidentally.
 
 # 例句
 *The researcher **unintentionally** introduced bias into the data collection process.*
-

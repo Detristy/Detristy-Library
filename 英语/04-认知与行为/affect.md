@@ -9,4 +9,3 @@ Have an effect on; make a difference to.
 
 # 例句
 *Climate change will **affect** agricultural production worldwide.*
-

@@ -9,4 +9,3 @@ Having a mutual relationship or connection.
 
 # 例句
 *Income and education level are strongly **correlated**.*
-

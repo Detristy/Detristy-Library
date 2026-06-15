@@ -9,4 +9,3 @@ Able to be shown to be right or reasonable; defensible.
 
 # 例句
 *The use of force was deemed **justifiable** under the circumstances.*
-

@@ -9,4 +9,3 @@ The condition of being spontaneous; impulsive action.
 
 # 例句
 *Children often exhibit remarkable **spontaneity** in their creativity.*
-

@@ -9,4 +9,3 @@ The state or fact of being weakened or damaged.
 
 # 例句
 *The accident caused permanent visual **impairment**.*
-

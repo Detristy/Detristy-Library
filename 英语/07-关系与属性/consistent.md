@@ -9,4 +9,3 @@ Acting or done in the same way over time; in agreement.
 
 # 例句
 *The results are **consistent** across multiple experiments.*
-

@@ -9,4 +9,3 @@ A person who carries out an action or undertaking.
 
 # 例句
 *She was recognized as the top **performer** in the sales department.*
-

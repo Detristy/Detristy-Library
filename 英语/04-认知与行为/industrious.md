@@ -9,4 +9,3 @@ Diligent and hard-working.
 
 # 例句
 *She is one of the most **industrious** researchers in the department.*
-

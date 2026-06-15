@@ -9,4 +9,3 @@ The action of beginning something.
 
 # 例句
 *The **initiation** of the clinical trial was delayed by regulatory hurdles.*
-

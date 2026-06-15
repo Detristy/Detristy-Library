@@ -9,4 +9,3 @@ Easily annoyed or made angry.
 
 # 例句
 *Lack of sleep made him **irritable** and short-tempered.*
-

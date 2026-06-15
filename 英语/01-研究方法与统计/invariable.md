@@ -9,4 +9,3 @@ Never changing; always the same.
 
 # 例句
 *The **invariable** laws of physics govern the universe.*
-

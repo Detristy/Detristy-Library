@@ -9,4 +9,3 @@ Be in conflict with; deny the truth of a statement.
 
 # 例句
 *The new evidence appears to **contradict** the earlier findings.*
-

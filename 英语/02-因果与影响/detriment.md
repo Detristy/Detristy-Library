@@ -9,4 +9,3 @@ The state of being harmed or damaged.
 
 # 例句
 *Excessive screen time can be to the **detriment** of childrens eyesight.*
-

@@ -9,4 +9,3 @@ Existing together at the same time or in the same place.
 
 # 例句
 *The two traditions have been **coexistent** in this region for centuries.*
-

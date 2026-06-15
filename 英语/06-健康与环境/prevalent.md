@@ -9,4 +9,3 @@ Widespread in a particular area at a particular time.
 
 # 例句
 *Obesity is more **prevalent** in developed countries.*
-

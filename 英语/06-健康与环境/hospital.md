@@ -9,4 +9,3 @@ An institution providing medical treatment and nursing care.
 
 # 例句
 *The new **hospital** will serve over 100,000 patients annually.*
-

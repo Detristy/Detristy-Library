@@ -9,4 +9,3 @@ The quality of being worthy of attention; importance.
 
 # 例句
 *The discovery holds great **significance** for the future of renewable energy.*
-

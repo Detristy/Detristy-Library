@@ -9,4 +9,3 @@ The act of assigning someone or something to a category.
 
 # 例句
 *The **labelling** of students as gifted or slow can have lasting psychological effects.*
-
