@@ -16,3 +16,5 @@ Smoking has a **detrimental** effect on lung function.
 # 派生
 #### [[detriment]] 
 n. 损害
+#### [[jeopardize-adverse-detrimental对比]]
+辨析 · jeopardize · adverse

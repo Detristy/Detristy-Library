@@ -18,3 +18,5 @@ The medication may cause **adverse** side effects in some patients.
 n. 逆境
 #### [[adversely]] 
 adv. 不利地
+#### [[jeopardize-adverse-detrimental对比]]
+辨析 · jeopardize · detrimental

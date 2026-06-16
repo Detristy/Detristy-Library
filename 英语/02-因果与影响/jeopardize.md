@@ -16,3 +16,5 @@ The scandal could **jeopardize** his chances of re-election.
 # 派生
 #### [[jeopardy]] 
 n. 危险
+#### [[jeopardize-adverse-detrimental对比]]
+辨析 · adverse · detrimental
