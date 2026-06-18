@@ -25,3 +25,6 @@ desktop.ini
 
 # Git
 .git/
+
+# 本地设计文档（不公开）
+设计/
