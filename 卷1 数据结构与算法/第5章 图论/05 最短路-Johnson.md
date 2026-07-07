@@ -11,7 +11,7 @@ Johnson是一种能够求出无负环图上任意两点间最短路径的算法�
 
 和 Floyd 类似，用于解决全源最短路，那么对于 $n$ 个点跑 Bellman-Ford 时间复杂度是 $O(n^2m)$ 。
 
-那么我们注意到 [[105-2 最短路-Dijkstra| Dijkstra]] 比 Bellman-Ford 更快，假如我们对每一个点跑 优化后的 Dijkstra，那么时间复杂度可以被压到 $O(nmlogm)$ 。
+那么我们注意到 [[卷1 数据结构与算法/第5章 图论/02 最短路-Dijkstra|Dijkstra]] 比 Bellman-Ford 更快，假如我们对每一个点跑 优化后的 Dijkstra，那么时间复杂度可以被压到 $O(nmlogm)$ 。
 
 但是问题来了，Dijkstra 处理不了负权边，因此我们要对边权进行预处理使其非负。
 
