@@ -1,40 +1,76 @@
-# 知识库索引
+# 📚 Detristy 知识库
 
-## 300 大学物理
+> **170 篇笔记 · 7 卷书 · 正在学习：数据结构、高数下、大学物理**
 
-- **[[卷5 大学物理/第2章 振动与波/01 简谐运动]]** — 简谐运动的基本描述、振动方程与能量（待完善）
-- **[[卷5 大学物理/第2章 振动与波/02A 波函数推导（从任意点出发）]]** — 已知任意点振动推波函数，正/反向传播判断方法
-- **[[卷5 大学物理/第3章 波动光学/01 光的干涉]]** — 杨氏双缝实验、薄膜干涉、等倾与等厚干涉
-- **[[卷5 大学物理/第3章 波动光学/02 光的衍射]]** — 惠更斯-菲涅耳原理、单缝衍射、圆孔衍射与光栅
-- **[[卷5 大学物理/第3章 波动光学/03 光的偏振]]** — 偏振光的基本概念、马吕斯定律、布儒斯特定律
-- **[[卷5 大学物理/第1章 力学/01 质点运动学]]** — 参考系、位置矢量、速度加速度、直线/抛体/圆周运动、相对运动
-- **[[卷5 大学物理/习题集/第1章 力学/01Ex1 质点运动学 习题]]** — 相对运动、非惯性系、约束运动、轨迹已知四类典型例题（含详细解答）
+---
 
-## 100 数据结构 & 算法 (C++)
+## 🎯 快速导航
 
-（待索引）
+| 卷 | 章 | 进度 | 笔记数 |
+|---|---|---|---|
+| **[[卷1 数据结构与算法]]** | 第1章 动态规划 | 🟢 | 4 |
+| | 第2章 树 | 🟢 | 10 |
+| | 第3章 线性结构 | 🟢 | 7 |
+| | 第4章 字符串 | 🟢 | 6 |
+| | 第5章 图论 | 🟢 | 13 |
+| | 第6章 进阶数据结构 | 🟢 | 3 |
+| | 第7章 算法数学 | 🟢 | 4 |
+| | 第8章 搜索与排序 | 🟢 | 12 |
+| | → [[卷1 数据结构与算法/附录C 题目集\|刷题集]] | 🟡 | 13 |
+| | → [[卷1 数据结构与算法/第0章 算法证明\|算法证明]] | 🟢 | 4 |
+| **[[卷2 高等数学]]** | 第1章 空间解析几何与多元函数微分 | 🟡 | 12 |
+| | 第2章 重积分与曲线曲面积分 | 🟡 | 18 |
+| | 第3章 无穷级数 | 🟡 | 7 |
+| | 第4章 微分方程 | 🟢 | 9 |
+| **[[卷4 概率论]]** | 第1章 测度论 | 🔴 | 1 |
+| **[[卷5 大学物理]]** | 第1章 力学 | 🟢 | 6 |
+| | 第2章 振动与波 | 🟢 | 3 |
+| | 第3章 波动光学 | 🟢 | 5 |
+| | 第4章 相对论 | 🟢 | 1 |
+| | → [[卷5 大学物理/习题集\|习题集]] | 🟢 | 9 |
+| | → 备考资料 | 🟢 | 3 |
+| **[[卷6 Python]]** | 第1章 基础语法 | 🟢 | 6 |
+| | 第2章 项目实践 | 🟢 | 2 |
+| **[[卷7 Java]]** | 第1章 Java基础 | 🔴 | 2 |
+| **[[设计/扑通偶像 鹰角比赛项目\|🎨 设计]]** | 扑通偶像项目 | 🟡 | 3 |
 
-## 200 数学
+> 🟢 已完成 · 🟡 学习中 · 🔴 待完善
 
-### 220 Durrett 概率论 — 测度论
+---
 
-- **[[卷4 概率论/第1章 测度论/01 概率空间-Probability Spaces]]** — 概率空间三元组、σ-代数、Kolmogorov 公理、概率测度的基本性质
+## 📖 今日聚焦
 
-## 400 Python
+| 科目 | 当前章节 | 状态 |
+|---|---|---|
+| 📐 高数 | 无穷级数 · 傅里叶级数 | 🟡 学习中 |
+| ⚛️ 大物 | 第4章 相对论 | 🟢 已掌握 |
+| 💻 Java | 继承 | 🔴 刚开始 |
 
-（待索引）
+---
 
-## 设计
+## 📌 快捷入口
 
-- **[[设计/扑通偶像 鹰角比赛项目/「扑通偶像」UI层级结构]]** — 虚拟偶像运营 × 牌组构建 × 视觉小说，UI 层级树、界面逻辑、多结局触发与视觉风格
+- [[卷1 数据结构与算法/第5章 图论/02 最短路-Dijkstra\|Dijkstra 最短路]]
+- [[卷2 高等数学/第2章 重积分与曲线曲面积分/08 斯托克斯公式 旋度 环流量\|斯托克斯公式]]
+- [[卷2 高等数学/第3章 无穷级数/05 傅里叶级数\|傅里叶级数]]
+- [[卷5 大学物理/第4章 相对论/01 狭义相对论基础\|狭义相对论速查]]
 
-## 英语
+---
 
-- **01-研究方法与统计** — correlate, designate, empirical, falsify, frequency, indicate, invalid, linear, methodology, modular, monitor, nonlinear, phase, proportion, questionnaire, random, rate, scale, valid 等
-- **02-因果与影响** — adverse, deplete, detriment, exert, hinder, immediate effects, immortal, impair, jeopardize, mediate, mortal, plague, pose, premature, subsequent 等
-- **03-论证与推理** — ambiguity, ascertain, assure, contradict, demonstrate, hypothesis, implication, integral, justify, merit, misconception, neglect, presume, reiterate, speculate 等
-- **04-认知与行为** — affect, appreciate, cognition, cognizant, faculty, familiar, industrious, intend, irritability, scant, spontaneous, tedious 等
-- **05-操作与过程** — administer, consensus, implement, initiate, integrate, intervene, manipulate, mechanism, moderate, perform, procedure, proceed, supplement, sustain, tactic, undergo 等
-- **06-健康与环境** — acid rain, aggression, fast, hospital, postsurgical, prevail, radiate, relief, surgery 等
-- **07-关系与属性** — amenable, analogous, approximately, consistent, coexist, comparative, confidential, fluctuate, fortify, generic, inconsistent, modify, proximate, significant, virtual, with respect to 等
-- **08-短语与搭配** — a constellation of, an array of, be labelled as, be responsible for 等
+## 📊 统计一览
+
+```
+文件总数    │ 170 篇
+─────      ────────
+卷1 数据结构 │ 82 篇   🟢🟢🟢🟢🟢🟢🟢🟢
+卷2 高等数学 │ 47 篇   🟢🟢🟢🟢
+卷4 概率论   │  1 篇   🔴
+卷5 大学物理 │ 27 篇   🟢🟢🟢🟢
+卷6 Python   │  8 篇   🟢
+卷7 Java     │  2 篇   🔴
+设计/        │  3 篇   🟡
+```
+
+---
+
+_最后更新：2026.07.07 · 书式重构完成_
