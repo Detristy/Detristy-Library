@@ -120,7 +120,7 @@ int getBF(AVLNode *root) {
 2. 将 $A$ 结点向右下（顺时针）旋转，作为 $B$ 的右子树的根；
 3. $B$ 原来的右子树变为 $A$ 的左子树。
 
-![[Pasted image 20260514191642.png]]
+![[Assets/Pasted image 20260514191642.png]]
 
 下面给出左右旋的代码：
 
@@ -160,21 +160,21 @@ AVLNode* rotateL(AVLNode* root) {
 LL型指的是结点 $T$ 的左儿子的左子树过长导致平衡被破坏。
 解决方案是对 $T$ 执行右旋（右单旋）。
 
-![[Pasted image 20260514191650.png]]
+![[Assets/Pasted image 20260514191650.png]]
 
 ## 4.2 RR型
 
 和LL型对应，RR型指的是结点 $T$ 的右儿子的右子树过长导致平衡被破坏。
 解决方案是对 $T$ 执行左旋（左单旋）。
 
-![[Pasted image 20260514191717.png]]
+![[Assets/Pasted image 20260514191717.png]]
 
 ## 4.3 LR型
 
 LR型指的是结点 $T$ 的左孩子 $L$ 的右子树过长导致平衡性被破坏。
 解决方案是先左旋 $L$ 变为LL型，再右旋 $T$ （左右双旋）。
 
-![[Pasted image 20260514191725.png]]
+![[Assets/Pasted image 20260514191725.png]]
 
 ```cpp
 AVLNode* rotateLR(AVLNode* root) {  
@@ -188,7 +188,7 @@ AVLNode* rotateLR(AVLNode* root) {
 和LR型对应，RL型指的是结点 $T$ 的右孩子 $R$ 的左子树过长导致平衡性被破坏。
 解决方案是先右旋 $R$ 变为RR型，再左旋 $T$ （右左双旋）。
 
-![[Pasted image 20260514191706.png]]
+![[Assets/Pasted image 20260514191706.png]]
 
 ```cpp
 AVLNode* rotateRL(AVLNode* root) {  
