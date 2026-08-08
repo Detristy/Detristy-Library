@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "ea628fc615f73657",
+    "type": "split",
+    "children": [
+      {
+        "id": "94623037104a0ab4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533019455ce2c75a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P9638 youyou的军训.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P9638 youyou的军训"
+            }
+          },
+          {
+            "id": "a7703cf07467faa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HLJCPC2026K 六个核桃"
+            }
+          },
+          {
+            "id": "881a6d2c8269e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-view",
+              "state": {
+                "file": "HLJCPC2026K.cpp"
+              },
+              "icon": "lucide-file",
+              "title": "HLJCPC2026K.cpp"
+            }
+          },
+          {
+            "id": "03805b3f159fdb50",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-view",
+              "state": {
+                "file": "2245.cpp"
+              },
+              "icon": "lucide-file",
+              "title": "2245.cpp"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cdd2348e35a32b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "24e871797a03ca37",
+        "type": "tabs",
+        "dimension": 62.0817843866171,
+        "children": [
+          {
+            "id": "567877727f0c8bf2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "16be590e8db5c7e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:数论（算法）",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "98bfd0da7385230c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "63c547b40560f30c",
+            "type": "leaf",
+            "state": {
+              "type": "mathcraft-note-manager",
+              "state": {},
+              "icon": "mathcraft-notebook",
+              "title": "笔记库"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e61548cde78ce35c",
+        "type": "tabs",
+        "dimension": 37.9182156133829,
+        "children": [
+          {
+            "id": "e2d81371594e570d",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-dashboard",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Code Space"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.6180305480957
+  },
+  "right": {
+    "id": "a442eb6faf044e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f1402a888898c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06aeb61eab5984e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ATLAS/卷2 高等数学/第2章 重积分与曲线曲面积分/04B 格林公式 习题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "04B 格林公式 习题 的反向链接列表"
+            }
+          },
+          {
+            "id": "07a9ffd318aa53ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "9d3703c8683ddde8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "935f18c5ec6dfa6b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c17d0dba989ec9c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "77c0deafbde4a228",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ed1cbeec1bf73198",
+            "type": "leaf",
+            "state": {
+              "type": "code-space-outline",
+              "state": {},
+              "icon": "code",
+              "title": "代码大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "code-space:打开 Code Space 主面板": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "a7703cf07467faa2",
+  "lastOpenFiles": [
+    "HLJCPC2026K.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026C 圆桌会议.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026B 最大数码2.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P4824 Censoring S.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/04 字符串哈希.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/03 KMP.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/02 trie.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/05 AC自动机.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/06 01-trie.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/02 裴蜀定理.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/01 基础数学.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/02 树状数组.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/01 哈希 与 哈希表.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/10 LCA.md",
+    "ATLAS/卷4 Durrett概率论/第1章 测度论/01 概率空间-Probability Spaces.md",
+    "ATLAS/卷4 Durrett概率论/第1章 测度论/02 分布-Distributions.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/11 Kruskal重构树.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/14 分层图.md",
+    "ATLAS/卷1 数据结构与算法/第3章 线性结构/01 单链表.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Atcoder/ABC251E Takahashi and Animals.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF797E Array Queries.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF1921F Sum of Progression.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2227D Palindromex.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248B Merge to Match.md",
+    "9638.cpp",
+    "2245.cpp",
+    "CF2254D.cpp",
+    "StudentTest2.java",
+    "StudentTest.java",
+    "CF2254C.cpp",
+    "2256.cpp",
+    "8805.cpp",
+    "SDCPC2026K.cpp",
+    "Pasted image 20260731201712.png",
+    "Pasted image 20260725164318.png",
+    "Pasted image 20260724170935.png",
+    "Assets/Pasted image 20260620141830.png",
+    "Assets/Pasted image 20260620142746.png",
+    "Assets/Pasted image 20260620142743.png",
+    "Assets/Pasted image 20260619143052.png",
+    "Assets/Pasted image 20260620141415.png",
+    "Assets/Pasted image 20260620140452.png",
+    "Assets/Pasted image 20260620115204.png",
+    "未命名.canvas"
+  ]
+}

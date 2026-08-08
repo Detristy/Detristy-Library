@@ -1,30 +1,27 @@
-# Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/community-plugins.json
-.obsidian/core-plugins.json
-.obsidian/core-plugins-migration.json
-.obsidian/hotkeys.json
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/graph.json
-.obsidian/plugins/
-.obsidian/themes/
-.obsidian/snippets/
-.obsidian/*.json.bak
-.obsidian/*.json.rej
+# 编程练习产物（不入库）
+*.cpp
+*.exe
+*.java
+*.class
+*.o
+*.obj
+*.out
 
-# OS junk
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 系统
 .DS_Store
 Thumbs.db
-desktop.ini
 
-# Trash
-.trash/
-.Trash-*
+# Obsidian 内部状态（不入库，各设备独立）
+.obsidian/workspaces.json
+.obsidian/types.json
+.obsidian/cache
+.obsidian/plugins/
 
-# Git
-.git/
-
-# 本地设计文档（不公开）
-设计/
+# 临时
+*.tmp
+*.log

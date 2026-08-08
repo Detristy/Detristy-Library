@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[\"difficulty\":Purple]",
+      "color": {
+        "a": 1,
+        "rgb": 12255487
+      }
+    },
+    {
+      "query": "[\"difficulty\":Orange]",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
+      }
+    },
+    {
+      "query": "[\"difficulty\":Yellow]",
+      "color": {
+        "a": 1,
+        "rgb": 16768256
+      }
+    },
+    {
+      "query": "[\"difficulty\":Cyan]",
+      "color": {
+        "a": 1,
+        "rgb": 64175
+      }
+    },
+    {
+      "query": "[\"difficulty\":Green]",
+      "color": {
+        "a": 1,
+        "rgb": 5111552
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.8,
+  "nodeSizeMultiplier": 1.28735069118239,
+  "lineSizeMultiplier": 0.235142933834385,
+  "collapse-forces": false,
+  "centerStrength": 0.303525046382189,
+  "repelStrength": 19.3692022263451,
+  "linkStrength": 1,
+  "linkDistance": 453,
+  "scale": 0.7303275766309891,
+  "close": true
+}

@@ -1,6 +1,5 @@
 ---
 tags:
-  - 数论（算法）
   - GCD/LCM
 Difficulty:
   - Orange

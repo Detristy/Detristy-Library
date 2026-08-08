@@ -1,0 +1,23 @@
+/* 行内代码字体颜色 — 自适应深浅色模式 */
+/* 暗色模式：纯白 */
+body.theme-dark .cm-inline-code,
+body.theme-dark :not(pre) > code {
+  color: #ffffff !important;
+}
+
+/* 浅色模式：深灰 */
+body.theme-light .cm-inline-code,
+body.theme-light :not(pre) > code {
+  color: #333333 !important;
+}
+
+/* 通用兜底 */
+.cm-inline-code,
+:not(pre) > code {
+  color: #ffffff;
+}
+
+/* 代码块保持原样不动 */
+pre code {
+  color: inherit !important;
+}
