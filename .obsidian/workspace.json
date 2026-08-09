@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248C Maximize the Score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HLJCPC2026K 六个核桃"
+              "title": "CF2248C Maximize the Score"
             }
           },
           {
@@ -72,7 +72,7 @@
       {
         "id": "24e871797a03ca37",
         "type": "tabs",
-        "dimension": 62.0817843866171,
+        "dimension": 75.21685254027261,
         "children": [
           {
             "id": "567877727f0c8bf2",
@@ -131,7 +131,7 @@
       {
         "id": "e61548cde78ce35c",
         "type": "tabs",
-        "dimension": 37.9182156133829,
+        "dimension": 24.783147459727388,
         "children": [
           {
             "id": "e2d81371594e570d",
@@ -276,17 +276,26 @@
   },
   "active": "a7703cf07467faa2",
   "lastOpenFiles": [
-    "HLJCPC2026K.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248B Merge to Match.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2254C Marenol.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248C Maximize the Score.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF797E Array Queries.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF1921F Sum of Progression.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/SDCPC2026K 最小生成树.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/11 Kruskal重构树.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2801 教主的魔法.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/02 裴蜀定理.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/03 快速幂.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026C 圆桌会议.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026B 最大数码2.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+    "HLJCPC2026K.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P4824 Censoring S.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/04 字符串哈希.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/03 KMP.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/02 trie.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/05 AC自动机.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/06 01-trie.md",
-    "ATLAS/卷1 数据结构与算法/第7章 算法数学/02 裴蜀定理.md",
     "ATLAS/卷1 数据结构与算法/第7章 算法数学/01 基础数学.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/02 树状数组.md",
@@ -294,14 +303,6 @@
     "ATLAS/卷1 数据结构与算法/第5章 图论/10 LCA.md",
     "ATLAS/卷4 Durrett概率论/第1章 测度论/01 概率空间-Probability Spaces.md",
     "ATLAS/卷4 Durrett概率论/第1章 测度论/02 分布-Distributions.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/11 Kruskal重构树.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/14 分层图.md",
-    "ATLAS/卷1 数据结构与算法/第3章 线性结构/01 单链表.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Atcoder/ABC251E Takahashi and Animals.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF797E Array Queries.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF1921F Sum of Progression.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2227D Palindromex.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248B Merge to Match.md",
     "9638.cpp",
     "2245.cpp",
     "CF2254D.cpp",
