@@ -8,59 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "533019455ce2c75a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P9638 youyou的军训.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P9638 youyou的军训"
-            }
-          },
-          {
             "id": "a7703cf07467faa2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248C Maximize the Score.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JXCPC2025K 不许偷吃.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CF2248C Maximize the Score"
-            }
-          },
-          {
-            "id": "881a6d2c8269e1cb",
-            "type": "leaf",
-            "state": {
-              "type": "code-space-view",
-              "state": {
-                "file": "HLJCPC2026K.cpp"
-              },
-              "icon": "lucide-file",
-              "title": "HLJCPC2026K.cpp"
-            }
-          },
-          {
-            "id": "03805b3f159fdb50",
-            "type": "leaf",
-            "state": {
-              "type": "code-space-view",
-              "state": {
-                "file": "2245.cpp"
-              },
-              "icon": "lucide-file",
-              "title": "2245.cpp"
+              "title": "JXCPC2025K 不许偷吃"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.6180305480957
+    "width": 246.95137405395508
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -276,9 +237,17 @@
   },
   "active": "a7703cf07467faa2",
   "lastOpenFiles": [
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JXCPC2025G 玻璃碎晶.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JXCPC2025K 不许偷吃.md",
+    "2245.cpp",
+    "HLJCPC2026K.cpp",
+    "JXCPC2025G.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026C 圆桌会议.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026B 最大数码2.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248C Maximize the Score.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248B Merge to Match.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2254C Marenol.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2248C Maximize the Score.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF797E Array Queries.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF1921F Sum of Progression.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/SDCPC2026K 最小生成树.md",
@@ -286,10 +255,6 @@
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2801 教主的魔法.md",
     "ATLAS/卷1 数据结构与算法/第7章 算法数学/02 裴蜀定理.md",
     "ATLAS/卷1 数据结构与算法/第7章 算法数学/03 快速幂.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026C 圆桌会议.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026B 最大数码2.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
-    "HLJCPC2026K.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P4824 Censoring S.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/04 字符串哈希.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/03 KMP.md",
@@ -301,17 +266,13 @@
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/02 树状数组.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/01 哈希 与 哈希表.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/10 LCA.md",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/01 概率空间-Probability Spaces.md",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/02 分布-Distributions.md",
     "9638.cpp",
-    "2245.cpp",
     "CF2254D.cpp",
     "StudentTest2.java",
     "StudentTest.java",
     "CF2254C.cpp",
     "2256.cpp",
     "8805.cpp",
-    "SDCPC2026K.cpp",
     "Pasted image 20260731201712.png",
     "Pasted image 20260725164318.png",
     "Pasted image 20260724170935.png",
