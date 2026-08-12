@@ -13,64 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P5142 区间方差.md",
+                "file": "ATLAS/卷1 数据结构与算法/第1章 动态规划/04 最长上升子序列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P5142 区间方差"
-            }
-          },
-          {
-            "id": "3c5575582ae2b8be",
-            "type": "leaf",
-            "state": {
-              "type": "code-space-view",
-              "state": {
-                "file": "10463.cpp"
-              },
-              "icon": "lucide-file",
-              "title": "10463.cpp"
-            }
-          },
-          {
-            "id": "27437c9f5e3f195f",
-            "type": "leaf",
-            "state": {
-              "type": "code-space-view",
-              "state": {
-                "file": "SP1716.cpp"
-              },
-              "icon": "lucide-file",
-              "title": "SP1716.cpp"
-            }
-          },
-          {
-            "id": "22e58bbcf6bbd762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/13 贪心 构造 思维题.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13 贪心 构造 思维题"
-            }
-          },
-          {
-            "id": "57ad8a80dec3ad84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2184C Huge Pile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CF2184C Huge Pile"
+              "title": "04 最长上升子序列"
             }
           },
           {
@@ -79,30 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第7章 算法数学/01 基础数学.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1880 石子合并.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 基础数学"
+              "title": "P1880 石子合并"
             }
           },
           {
-            "id": "d613bb4a3ec7e1ab",
+            "id": "9784532e39ae11d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 线段树"
+              "title": "17 双指针"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:数论（算法）",
+                "query": "区间DP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,18 +264,33 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "62f12c47c78f431b",
+  "active": "9784532e39ae11d4",
   "lastOpenFiles": [
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 翻转逆序对.md",
+    "16922.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JLCPC2026J 翻转逆序对.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1880 石子合并.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/03 区间DP.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2858 Treats for the Cows.md",
+    "ATLAS/卷8 离散数学 抽象代数/Dilworth定理.md",
+    "1020.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1020 导弹拦截.md",
+    "ATLAS/卷8 抽象代数/未命名.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/04 最长上升子序列.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/13 贪心 构造 思维题.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/07 概率DP & 期望DP.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P5142 区间方差.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/01 基础数学.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2574 XOR的艺术.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2184C Huge Pile.md",
     "CF2184C.cpp",
-    "ATLAS/卷8 抽象代数/未命名.md",
-    "ATLAS/卷8 抽象代数",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P5142 区间方差.md",
+    "ATLAS/卷8 离散数学 抽象代数",
     "10463.cpp",
     "5142.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1471 方差.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
     "1471.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P10463 Interval GCD.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP1716 GSS3 Can you answer these queries III.md",
@@ -338,22 +301,8 @@
     "Pasted image 20260811153724.png",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP18185 GIVEAWAY.md",
     "2574.cpp",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/13 贪心 构造 思维题.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3130 Counting Haybale P.md",
-    "3130.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1531 I Hate It.md",
-    "1531.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3373 【模板】线段树2.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3372 【模板】线段树 1.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3370 【模板】字符串哈希.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3368 【模板】树状数组 2.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2918 Buying Hay S.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3374 【模板】树状数组 1.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2880 Balanced Lineup G.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JXCPC2025C 虫洞.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/02 树状数组.md",
-    "JXCPC2025C 虫洞.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/16 静态点分治.md",
     "Pasted image 20260731201712.png",
     "Pasted image 20260725164318.png",
     "Pasted image 20260724170935.png",
