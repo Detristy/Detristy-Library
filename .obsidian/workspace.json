@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 翻转逆序对.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17 双指针"
+              "title": "P16911 翻转逆序对"
             }
           }
         ],
@@ -266,9 +266,11 @@
   },
   "active": "9784532e39ae11d4",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
+    "ATLAS/卷8 离散数学 抽象代数/未命名.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 翻转逆序对.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/SDCPC2026K 最小生成树.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
     "16922.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JLCPC2026J 翻转逆序对.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1880 石子合并.md",
@@ -301,8 +303,6 @@
     "Pasted image 20260811153724.png",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP18185 GIVEAWAY.md",
     "2574.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P3130 Counting Haybale P.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1531 I Hate It.md",
     "Pasted image 20260731201712.png",
     "Pasted image 20260725164318.png",
     "Pasted image 20260724170935.png",
