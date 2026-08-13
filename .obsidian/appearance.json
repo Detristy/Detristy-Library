@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
-  "accentColor": "#51d2d0",
+  "accentColor": "#1a8e8c",
   "interfaceFontFamily": "Outfit,MiSans VF",
-  "cssTheme": "AnuPpuccin",
-  "baseFontSize": 14,
+  "cssTheme": "Encore",
+  "baseFontSize": 12,
   "showViewHeader": true,
   "showRibbon": true,
   "monospaceFontFamily": "Space Mono",
@@ -11,5 +11,5 @@
   "enabledCssSnippets": [
     "inline-code-cyan"
   ],
-  "textFontFamily": "MiSans VF"
+  "textFontFamily": "Outfit,MiSans VF"
 }

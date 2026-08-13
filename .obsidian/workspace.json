@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "94623037104a0ab4",
+        "id": "1b89da837e6432d1",
         "type": "tabs",
         "children": [
           {
-            "id": "a7703cf07467faa2",
+            "id": "dfdedc2110684020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第1章 动态规划/04 最长上升子序列.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题/【NCEPU集训】求最大值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 最长上升子序列"
+              "title": "【NCEPU集训】求最大值"
             }
           },
           {
-            "id": "62f12c47c78f431b",
+            "id": "0d7bccd7735b7374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1880 石子合并.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录C 基础语法/循环结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1880 石子合并"
-            }
-          },
-          {
-            "id": "9784532e39ae11d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 翻转逆序对.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P16911 翻转逆序对"
+              "title": "循环结构"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,45 +250,47 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9784532e39ae11d4",
+  "active": "0d7bccd7735b7374",
   "lastOpenFiles": [
-    "ATLAS/卷8 离散数学 抽象代数/未命名.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 翻转逆序对.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/SDCPC2026K 最小生成树.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/17 双指针.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
-    "16922.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/比赛真题/JLCPC2026J 翻转逆序对.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1880 石子合并.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/03 区间DP.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2858 Treats for the Cows.md",
-    "ATLAS/卷8 离散数学 抽象代数/Dilworth定理.md",
-    "1020.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1020 导弹拦截.md",
-    "ATLAS/卷8 抽象代数/未命名.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/04 最长上升子序列.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/13 贪心 构造 思维题.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题/【NCEPU集训】求最大值.md",
     "ATLAS/卷1 数据结构与算法/第1章 动态规划/07 概率DP & 期望DP.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P5142 区间方差.md",
-    "ATLAS/卷1 数据结构与算法/第7章 算法数学/01 基础数学.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P2574 XOR的艺术.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/CodeForces/CF2184C Huge Pile.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/前言.md",
+    "ATLAS/卷1 数据结构与算法/第0章 算法证明/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/循环结构.md",
+    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/未命名.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前言.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/前言.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/前言.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/前言.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/前言.md",
+    "ATLAS/卷1 数据结构与算法/第3章 线性结构/前言.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 杂项/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/三目运算符.md",
+    "U716708.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题",
+    "ATLAS/卷8 离散数学 抽象代数/群 - Group.md",
+    "ATLAS/卷1 数据结构与算法/未命名/未命名.md",
+    "ATLAS/卷9 C++ 入门/02 三目运算符与循环.md",
+    "ATLAS/卷1 数据结构与算法/-附录C 基础语法",
+    "ATLAS/卷9 C++ 入门/01 输入输出与变量常量.md",
+    "ATLAS/卷9 C++ 入门",
+    "ATLAS/卷1 数据结构与算法/第0章 算法证明/04 平方定址法中表长的选取.md",
+    "ATLAS/卷8 离散数学 抽象代数/Dilworth定理.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16919 古明地恋世界第一.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 Manhattan Cycle.md",
+    "16911.cpp",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
+    "1908.cpp",
+    "Pasted image 20260813141625.png",
+    "Pasted image 20260813141614.png",
+    "16922.cpp",
+    "1020.cpp",
     "CF2184C.cpp",
     "ATLAS/卷8 离散数学 抽象代数",
-    "10463.cpp",
-    "5142.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P1471 方差.md",
-    "1471.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P10463 Interval GCD.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP1716 GSS3 Can you answer these queries III.md",
-    "SP1716.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP1043 GSS1 Can you answer these queries I.md",
-    "SP1043.cpp",
-    "SP1043.md",
     "Pasted image 20260811153724.png",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/SphereOJ/SP18185 GIVEAWAY.md",
-    "2574.cpp",
     "Pasted image 20260731201712.png",
     "Pasted image 20260725164318.png",
     "Pasted image 20260724170935.png",
@@ -310,8 +298,6 @@
     "Assets/Pasted image 20260620142746.png",
     "Assets/Pasted image 20260620142743.png",
     "Assets/Pasted image 20260619143052.png",
-    "Assets/Pasted image 20260620141415.png",
-    "Assets/Pasted image 20260620140452.png",
     "未命名.canvas"
   ]
 }
