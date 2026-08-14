@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题/【NCEPU集训】求最大值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "【NCEPU集训】求最大值"
-            }
-          },
-          {
-            "id": "0d7bccd7735b7374",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录C 基础语法/循环结构.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "循环结构"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,19 +72,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "63c547b40560f30c",
-            "type": "leaf",
-            "state": {
-              "type": "mathcraft-note-manager",
-              "state": {},
-              "icon": "mathcraft-notebook",
-              "title": "笔记库"
             }
           }
         ]
@@ -123,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.7291450500488
+    "width": 246.1180305480957
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -209,16 +187,6 @@
             }
           },
           {
-            "id": "77c0deafbde4a228",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "ed1cbeec1bf73198",
             "type": "leaf",
             "state": {
@@ -250,15 +218,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0d7bccd7735b7374",
+  "active": "dfdedc2110684020",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题/【NCEPU集训】求最大值.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/07 概率DP & 期望DP.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/前言.md",
-    "ATLAS/卷1 数据结构与算法/第0章 算法证明/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/循环结构.md",
-    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/未命名.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/05 AC自动机.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/01 线性DP.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/前言.md",
+    "ATLAS/卷1 数据结构与算法/第9章 计算几何/前言.md",
     "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前言.md",
     "ATLAS/卷1 数据结构与算法/第7章 算法数学/前言.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/前言.md",
@@ -266,30 +233,31 @@
     "ATLAS/卷1 数据结构与算法/第4章 字符串/前言.md",
     "ATLAS/卷1 数据结构与算法/第3章 线性结构/前言.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/前言.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/前言.md",
+    "ATLAS/卷1 数据结构与算法/第0章 算法证明/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/前言.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 题目集/未命名.md",
+    "SDCPC2026K.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/SDCPC2026K 最小生成树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4824 Censoring S.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4168 蒲公英.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/05 树形DP.md",
+    "ATLAS/卷7 Java/第1章 Java基础/02 构造.md",
+    "ATLAS/卷7 Java/第1章 Java基础/03 继承.md",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 杂项/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录C 基础语法/三目运算符.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NowCoder/NC138960J 凹包.md",
+    "NC138960J.cpp",
+    "ATLAS/卷1 数据结构与算法/第9章 计算几何/01 凸包 凹包.md",
+    "ATLAS/卷1 数据结构与算法/第9章 计算几何",
     "U716708.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题",
-    "ATLAS/卷8 离散数学 抽象代数/群 - Group.md",
-    "ATLAS/卷1 数据结构与算法/未命名/未命名.md",
-    "ATLAS/卷9 C++ 入门/02 三目运算符与循环.md",
-    "ATLAS/卷1 数据结构与算法/-附录C 基础语法",
-    "ATLAS/卷9 C++ 入门/01 输入输出与变量常量.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法",
     "ATLAS/卷9 C++ 入门",
-    "ATLAS/卷1 数据结构与算法/第0章 算法证明/04 平方定址法中表长的选取.md",
-    "ATLAS/卷8 离散数学 抽象代数/Dilworth定理.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16919 古明地恋世界第一.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/Luogu/P16911 Manhattan Cycle.md",
     "16911.cpp",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
     "1908.cpp",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
     "16922.cpp",
-    "1020.cpp",
-    "CF2184C.cpp",
-    "ATLAS/卷8 离散数学 抽象代数",
     "Pasted image 20260811153724.png",
     "Pasted image 20260731201712.png",
     "Pasted image 20260725164318.png",

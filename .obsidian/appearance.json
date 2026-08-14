@@ -3,7 +3,7 @@
   "accentColor": "#1a8e8c",
   "interfaceFontFamily": "Outfit,MiSans VF",
   "cssTheme": "Encore",
-  "baseFontSize": 12,
+  "baseFontSize": 16,
   "showViewHeader": true,
   "showRibbon": true,
   "monospaceFontFamily": "Space Mono",
