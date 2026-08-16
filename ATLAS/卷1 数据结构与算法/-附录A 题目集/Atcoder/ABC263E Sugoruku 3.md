@@ -1,8 +1,8 @@
 ---
 tags:
   - 概率DP
-  - 数论
   - 费马小定理
+  - 数论（算法）
 Difficulty:
   - Green
 ---
