@@ -8,31 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfdedc2110684020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CF2171D Rae Taylor and Trees (easy ver.)"
-            }
-          },
-          {
             "id": "fd7f8d0882a14eea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第5章 图论/13 双连通分量.md",
-                "mode": "preview",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2422 良好的感觉.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "P2422 良好的感觉"
+            }
+          },
+          {
+            "id": "8fa5f2cbac8f6e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1901 发射站.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13 双连通分量"
+              "title": "P1901 发射站"
             }
           },
           {
@@ -105,7 +115,7 @@
             }
           },
           {
-            "id": "34b5e2ea1e9d7c25",
+            "id": "f7478a78b821146d",
             "type": "leaf",
             "state": {
               "type": "mathcraft-note-manager",
@@ -135,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 306.1180305480957
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -250,44 +260,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dfdedc2110684020",
+  "active": "fd7f8d0882a14eea",
   "lastOpenFiles": [
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1901 发射站.md",
+    "2422.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2422 良好的感觉.md",
+    "ATLAS/卷1 数据结构与算法/第3章 线性结构/10 单调栈.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5788 【模板】单调栈.md",
+    "3373.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/未命名.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3372 【模板】线段树 1.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3373 【模板】线段树2.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3374 【模板】树状数组 1.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248B Merge to Match.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2227D Palindromex.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248C Maximize the Score.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254C Marenol.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254D Silhouette.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/HLJCPC2026B 最大数码2.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/HLJCPC2026C 圆桌会议.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/13 贪心 构造 思维题.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171F Rae Taylor and Trees (hard ver.).md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/13 双连通分量.md",
-    "CF2171D.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
+    "CF2171F.cpp",
+    "CF2171D.cpp",
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "ATLAS/卷1 数据结构与算法/第9章 计算几何/前言.md",
     "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前言.md",
     "ATLAS/卷1 数据结构与算法/第7章 算法数学/前言.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/前言.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/前言.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/前言.md",
-    "ATLAS/卷1 数据结构与算法/第3章 线性结构/前言.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/前言.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/前言.md",
-    "ATLAS/卷1 数据结构与算法/第0章 算法证明/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/前言.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184C Huge Pile.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2422 良好的感觉.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Atcoder/ABC263E Sugoruku 3.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5788 【模板】单调栈.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1901 发射站.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/14 分层图.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/01 二分图.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/05 AC自动机.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/04 字符串哈希.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/06 01-trie.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/02 trie.md",
     "1901.cpp",
     "2866.cpp",
     "5788.cpp",
     "1020.cpp",
     "SDCPC2026K.cpp",
     "NC138960J.cpp",
-    "ATLAS/卷1 数据结构与算法/第9章 计算几何",
-    "U716708.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录B 题目集/培训命题",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
     "Pasted image 20260811153724.png",
