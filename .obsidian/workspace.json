@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2422 良好的感觉.md",
+                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "P2422 良好的感觉"
+              "title": "03 线段树"
             }
           },
           {
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1901 发射站.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1432 无聊的数列.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1901 发射站"
+              "title": "P1432 无聊的数列"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,19 +261,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fd7f8d0882a14eea",
+  "active": "8fa5f2cbac8f6e5f",
   "lastOpenFiles": [
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1901 发射站.md",
-    "2422.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1432 无聊的数列.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/15 O(1) 下的LCA.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/10 LCA.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/11 Kruskal重构树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2422 良好的感觉.md",
+    "2422.cpp",
     "ATLAS/卷1 数据结构与算法/第3章 线性结构/10 单调栈.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5788 【模板】单调栈.md",
     "3373.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/未命名.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3372 【模板】线段树 1.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3373 【模板】线段树2.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3374 【模板】树状数组 1.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248B Merge to Match.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2227D Palindromex.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248C Maximize the Score.md",
@@ -289,9 +294,6 @@
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "ATLAS/卷1 数据结构与算法/第9章 计算几何/前言.md",
     "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前言.md",
-    "ATLAS/卷1 数据结构与算法/第7章 算法数学/前言.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/前言.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/前言.md",
     "1901.cpp",
     "2866.cpp",
     "5788.cpp",
