@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d72b5cbb49262ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/04 珂朵莉树.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04 珂朵莉树"
-            }
-          },
-          {
             "id": "f08fd4a745161d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/03 线段树.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 线段树"
+              "title": "P1558 色板游戏"
             }
           },
           {
@@ -50,17 +36,15 @@
             }
           },
           {
-            "id": "09f86f0507916609",
+            "id": "de5c0a52ff9c4b6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "code-space-view",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/18 逆序对.md",
-                "mode": "source",
-                "source": false
+                "file": "3372.cpp"
               },
               "icon": "lucide-file",
-              "title": "18 逆序对"
+              "title": "3372.cpp"
             }
           }
         ]
@@ -75,7 +59,7 @@
       {
         "id": "24e871797a03ca37",
         "type": "tabs",
-        "dimension": 75.21685254027261,
+        "dimension": 67.10526315789474,
         "children": [
           {
             "id": "567877727f0c8bf2",
@@ -84,29 +68,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
-            }
-          },
-          {
-            "id": "16be590e8db5c7e3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "逆序对",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "搜索"
             }
           },
           {
@@ -137,7 +104,7 @@
       {
         "id": "e61548cde78ce35c",
         "type": "tabs",
-        "dimension": 24.783147459727388,
+        "dimension": 32.89473684210527,
         "children": [
           {
             "id": "e2d81371594e570d",
@@ -148,12 +115,29 @@
               "icon": "code-glyph",
               "title": "Code Space"
             }
+          },
+          {
+            "id": "16be590e8db5c7e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "线段树",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.1180305480957
+    "width": 291.1180305480957
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -268,46 +252,45 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d72b5cbb49262ceb",
+  "active": "f08fd4a745161d84",
   "lastOpenFiles": [
-    "ATLAS/卷7 Java/第1章 Java基础/目录.md",
-    "ATLAS/卷6 Python/第2章 项目实践/目录.md",
-    "ATLAS/卷6 Python/第1章 基础语法/目录.md",
-    "ATLAS/卷5 大学物理/第4章 相对论/目录.md",
-    "ATLAS/卷5 大学物理/第3章 波动光学/目录.md",
-    "ATLAS/卷5 大学物理/第2章 振动与波/目录.md",
-    "ATLAS/卷5 大学物理/第1章 力学/目录.md",
-    "ATLAS/卷5 大学物理/习题集/第4章 相对论/目录.md",
-    "ATLAS/卷5 大学物理/习题集/第3章 波动光学/目录.md",
-    "ATLAS/卷5 大学物理/习题集/第2章 振动与波/目录.md",
-    "ATLAS/卷5 大学物理/习题集/第1章 力学/目录.md",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/目录.md",
-    "ATLAS/卷3 线性代数/第1章 矩阵与高斯消元法/目录.md",
-    "ATLAS/卷2 高等数学/第4章 微分方程/目录.md",
-    "ATLAS/卷2 高等数学/第3章 无穷级数/目录.md",
-    "ATLAS/卷2 高等数学/第2章 重积分与曲线曲面积分/目录.md",
-    "ATLAS/卷2 高等数学/第1章 空间解析几何与多元函数微分/目录.md",
-    "ATLAS/卷1 数据结构与算法/第9章 计算几何/目录.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/目录.md",
-    "ATLAS/卷1 数据结构与算法/第7章 算法数学/目录.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/目录.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/目录.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/目录.md",
-    "ATLAS/卷1 数据结构与算法/第3章 线性结构/目录.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/目录.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/目录.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1637 三元上升子序列.md",
+    "1558.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
+    "3372.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3372 【模板】线段树 1.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/线段树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/JXCPC2025C 虫洞.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1253 扶苏的问题.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/珂朵莉树.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/树状数组.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/哈希表.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/红黑树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/二叉搜索树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/堆.md",
+    "ATLAS/卷1 数据结构与算法/第0章 算法证明/为什么出栈序列个数是卡特兰数.md",
+    "ATLAS/卷1 数据结构与算法/第0章 算法证明/哈夫曼树贪心策略的正确性证明.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
+    "16911.cpp",
+    "1507.cpp",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/01-trie.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串哈希.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/trie.md",
+    "1020.cpp",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/冒泡排序.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/排序",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/引入.md",
     "1637.cpp",
     "1253.cpp",
     "3130.cpp",
     "happy.png",
     "1432.cpp",
-    "3372.cpp",
-    "2422.cpp",
-    "3373.cpp",
-    "CF2171F.cpp",
-    "CF2171D.cpp",
     "C58F8D09701F6FDA228E109372DA20D8.png",
-    "1901.cpp",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
     "Pasted image 20260811153724.png",
