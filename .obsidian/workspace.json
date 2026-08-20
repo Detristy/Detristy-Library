@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P1558 色板游戏"
+              "title": "历史遗留问题 & 函数"
             }
           },
           {
@@ -39,12 +39,24 @@
             "id": "de5c0a52ff9c4b6a",
             "type": "leaf",
             "state": {
-              "type": "code-space-view",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "f108c7334b939605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "3372.cpp"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "3372.cpp"
+              "title": "未命名"
             }
           }
         ]
@@ -122,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线段树",
+                "query": "函数",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +145,8 @@
               "title": "搜索"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -254,12 +267,18 @@
   },
   "active": "f08fd4a745161d84",
   "lastOpenFiles": [
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184G Tastiness of Segment.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/线段树.md",
+    "未命名.md",
+    "3372.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/变量的使用技巧 常量 静态变量.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1637 三元上升子序列.md",
     "1558.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
-    "3372.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3372 【模板】线段树 1.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/线段树.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/JXCPC2025C 虫洞.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1253 扶苏的问题.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/珂朵莉树.md",
@@ -273,18 +292,13 @@
     "ATLAS/卷1 数据结构与算法/第2章 树/堆.md",
     "ATLAS/卷1 数据结构与算法/第0章 算法证明/为什么出栈序列个数是卡特兰数.md",
     "ATLAS/卷1 数据结构与算法/第0章 算法证明/哈夫曼树贪心策略的正确性证明.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
     "16911.cpp",
     "1507.cpp",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/01-trie.md",
     "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串哈希.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/trie.md",
     "1020.cpp",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/冒泡排序.md",
     "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/排序",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/引入.md",
     "1637.cpp",
     "1253.cpp",
     "3130.cpp",
