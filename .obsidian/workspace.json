@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P8779 推导部分和.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "历史遗留问题 & 函数"
+              "title": "P8779 推导部分和"
             }
           },
           {
@@ -39,10 +39,14 @@
             "id": "de5c0a52ff9c4b6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集/带权并查集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "带权并查集"
             }
           },
           {
@@ -145,8 +149,7 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,43 +270,43 @@
   },
   "active": "f08fd4a745161d84",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
-    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184G Tastiness of Segment.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P8779 推导部分和.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集/带权并查集.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集/并查集.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2256 一中校运会之百米跑.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集/扩展域并查集.md",
+    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1637 三元上升子序列.md",
+    "CF2184G.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171F Rae Taylor and Trees (hard ver.).md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/线段树.md",
+    "ATLAS/卷8 离散数学 抽象代数/群 - Group.md",
+    "ATLAS/卷8 离散数学 抽象代数/Dilworth定理.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
     "未命名.md",
     "3372.cpp",
     "ATLAS/卷1 数据结构与算法/-附录B 基础语法/变量的使用技巧 常量 静态变量.md",
     "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1558 色板游戏.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1637 三元上升子序列.md",
     "1558.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3372 【模板】线段树 1.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/JXCPC2025C 虫洞.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1253 扶苏的问题.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/珂朵莉树.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/树状数组.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集.md",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/哈希表.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/红黑树.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/二叉搜索树.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/堆.md",
-    "ATLAS/卷1 数据结构与算法/第0章 算法证明/为什么出栈序列个数是卡特兰数.md",
-    "ATLAS/卷1 数据结构与算法/第0章 算法证明/哈夫曼树贪心策略的正确性证明.md",
     "16911.cpp",
     "1507.cpp",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/01-trie.md",
-    "ATLAS/卷1 数据结构与算法/第4章 字符串/字符串哈希.md",
     "1020.cpp",
     "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/排序",
     "1637.cpp",
     "1253.cpp",
-    "3130.cpp",
     "happy.png",
-    "1432.cpp",
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
