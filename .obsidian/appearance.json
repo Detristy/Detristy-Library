@@ -2,7 +2,7 @@
   "theme": "moonstone",
   "accentColor": "#1a8e8c",
   "interfaceFontFamily": "Outfit,MiSans VF",
-  "cssTheme": "Encore",
+  "cssTheme": "Border",
   "baseFontSize": 16,
   "showViewHeader": true,
   "showRibbon": true,
