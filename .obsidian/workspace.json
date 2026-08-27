@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "霍夫曼树"
+              "title": "Equilibrium"
             }
           },
           {
@@ -257,8 +257,14 @@
   },
   "active": "98cafbbad4eee83e",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/第5章 图论/Kruskal重构树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/鸡兔同笼.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/Equilibrium.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/B4189 树上开花（待补）.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/DX超性能フルメタル少女.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/未命名.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/Kruskal重构树.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/树上差分.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/树上费马点.md",
@@ -267,7 +273,6 @@
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4281 紧急集合 (聚会).md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/LCA.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2245 星际导航.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/B4189 树上开花（待补）.md",
     "4281.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3398 仓鼠找sugar.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4427 求和.md",
@@ -283,17 +288,12 @@
     "ATLAS/卷1 数据结构与算法/第5章 图论/最小生成树-Kruskal.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/最小生成树-Prim.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/最短路/最短路-Bellman-Ford 和 SPFA.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/二分图.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/最短路",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/差分约束.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/LCA",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/区间DP.md",
     "5836.cpp",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集",
     "CF2184G.cpp",
     "3372.cpp",
-    "1558.cpp",
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
