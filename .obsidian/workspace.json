@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4281 紧急集合 (聚会).md",
+                "file": "ATLAS/卷1 数据结构与算法/第2章 树/AVL 树.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P4281 紧急集合 (聚会)"
+              "title": "AVL 树"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/Equilibrium.md",
+                "file": "ATLAS/卷1 数据结构与算法/第7章 算法数学/数论分块.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equilibrium"
+              "title": "数论分块"
             }
           },
           {
@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Kruskal重构树"
             }
+          },
+          {
+            "id": "19442320974fc2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2680 运输计划.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P2680 运输计划"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -62,7 +76,7 @@
       {
         "id": "24e871797a03ca37",
         "type": "tabs",
-        "dimension": 75.24752475247524,
+        "dimension": 69.74874371859296,
         "children": [
           {
             "id": "567877727f0c8bf2",
@@ -107,7 +121,7 @@
       {
         "id": "e61548cde78ce35c",
         "type": "tabs",
-        "dimension": 24.752475247524753,
+        "dimension": 30.251256281407034,
         "children": [
           {
             "id": "e2d81371594e570d",
@@ -125,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "函数",
+                "query": "2680",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,45 +269,44 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "98cafbbad4eee83e",
+  "active": "19442320974fc2fd",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/鸡兔同笼.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/Equilibrium.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/B4189 树上开花（待补）.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/DX超性能フルメタル少女.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/未命名.md",
+    "2680.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2680 运输计划.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2245 星际导航.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1853 投资的最大收益.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1880 石子合并.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1481 魔族密码.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/Kruskal重构树.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/树上差分.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/树上费马点.md",
+    "ATLAS/卷1 数据结构与算法/第7章 算法数学/数论分块.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/AVL 树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/B+树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/B树.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/树上启发式合并.md",
     "ATLAS/卷1 数据结构与算法/第2章 树/线索二叉树.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4281 紧急集合 (聚会).md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/LCA.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2245 星际导航.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树上费马点.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/红黑树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/二叉搜索树.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/变量的使用技巧 常量 静态变量.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/循环结构.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/历史遗留问题 & 函数.md",
+    "ATLAS/卷1 数据结构与算法/-附录B 基础语法/三目运算符.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/线性DP.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/状压DP.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/树形DP.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/区间DP.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
     "4281.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3398 仓鼠找sugar.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P4427 求和.md",
     "4427.cpp",
     "3398.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1020 导弹拦截.md",
-    "ATLAS/卷8 离散数学 抽象代数/群.md",
     "happy.png",
-    "未命名.md",
-    "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集/带权并查集.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5836 Milk Visits S.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P8805 机房.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/最小生成树-Kruskal.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/最小生成树-Prim.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/最短路/最短路-Bellman-Ford 和 SPFA.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/最短路",
     "ATLAS/卷1 数据结构与算法/第5章 图论/LCA",
     "5836.cpp",
     "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/并查集",
     "CF2184G.cpp",
-    "3372.cpp",
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",

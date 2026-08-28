@@ -3,7 +3,7 @@
   "accentColor": "#1a8e8c",
   "interfaceFontFamily": "Outfit,MiSans VF",
   "cssTheme": "Border",
-  "baseFontSize": 16,
+  "baseFontSize": 18,
   "showViewHeader": true,
   "showRibbon": true,
   "monospaceFontFamily": "Space Mono",
