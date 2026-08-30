@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2680 运输计划.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P2680 运输计划"
+              "title": "CF2258B1 Carrot Chopdown (Easy ver.)"
             }
           }
         ],
@@ -271,8 +271,10 @@
   },
   "active": "19442320974fc2fd",
   "lastOpenFiles": [
-    "2680.cpp",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B2 Carrot Chopdown (Hard ver.).md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2680 运输计划.md",
+    "2680.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2245 星际导航.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1853 投资的最大收益.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1880 石子合并.md",
@@ -296,7 +298,6 @@
     "ATLAS/卷1 数据结构与算法/第1章 动态规划/线性DP.md",
     "ATLAS/卷1 数据结构与算法/第1章 动态规划/状压DP.md",
     "ATLAS/卷1 数据结构与算法/第1章 动态规划/树形DP.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/区间DP.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
     "4281.cpp",
     "4427.cpp",
