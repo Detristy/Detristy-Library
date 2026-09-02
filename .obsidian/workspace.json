@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
+                "file": "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CF2218G The 67th Iteration of Counting is Fun"
+              "title": "欧拉序维护LCA"
             }
           },
           {
@@ -313,13 +313,17 @@
   },
   "active": "19442320974fc2fd",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver（待补）.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/贪心 构造 思维题.md",
+    "3379_2.cpp",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前缀和 差分.md",
+    "3379_2.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver（待补）.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF797E Array Queries.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF1921F Sum of Progression.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前缀和 差分.md",
     "CF2258B1.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B2 Carrot Chopdown (Hard ver.).md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2179E Blackslex and Girls.md",
@@ -338,18 +342,13 @@
     "ATLAS/卷4 Durrett概率论/第1章 测度论/随机变量-Random Variables.md",
     "ATLAS/卷4 Durrett概率论/第1章 测度论/分布-Distributions.md",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218E The 67th XOR Problem.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/贪心 构造 思维题.md",
     "CF2218E.cpp",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/逆序对.md",
-    "ATLAS/卷1 数据结构与算法/第1章 动态规划/状压DP.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1896 互不侵犯.md",
     "CF2179E.cpp",
     "aa0249921ede9c49ad793ad7df413de1.jpg",
     "2680.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
     "4281.cpp",
     "4427.cpp",
-    "3398.cpp",
     "happy.png",
     "C58F8D09701F6FDA228E109372DA20D8.png",
     "Pasted image 20260813141625.png",
