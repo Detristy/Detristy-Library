@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欧拉序维护LCA"
+              "title": "CF2218G The 67th Iteration of Counting is Fun"
             }
           },
           {
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/贪心 构造 思维题.md",
+                "file": "ATLAS/卷1 数据结构与算法/第5章 图论/树链剖分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "贪心 构造 思维题"
+              "title": "树链剖分"
             }
           },
           {
@@ -97,16 +97,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/逆序对.md",
+                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3384 【模板】树链剖分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逆序对"
+              "title": "P3384 【模板】树链剖分"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 447.5
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -311,53 +311,54 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "19442320974fc2fd",
+  "active": "93863256b718aa9b",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/贪心 构造 思维题.md",
-    "3379_2.cpp",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/前缀和 差分.md",
-    "3379_2.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3384 【模板】树链剖分.md",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/树链剖分.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/逆序对.md",
+    "Pasted image 20260904230138.png",
+    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/LCA.md",
     "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver（待补）.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF797E Array Queries.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF1921F Sum of Progression.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
-    "CF2258B1.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B2 Carrot Chopdown (Hard ver.).md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2179E Blackslex and Girls.md",
-    "ATLAS/卷1 数据结构与算法/第2章 树/树上差分.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/计数排序.md",
-    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/基数排序.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171F Rae Taylor and Trees (hard ver.).md",
-    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/字符的二进制表示.md",
-    "ATLAS/卷9 数字逻辑与数字系统设计/目录.md",
     "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/可靠性编码.md",
     "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/数字系统概述.md",
-    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/目录.md",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/概率空间-Probability Spaces.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/字符的二进制表示.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/霍夫曼树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/二叉搜索树.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254C Marenol.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248C Maximize the Score.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254D Silhouette.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver（待补）.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248B Merge to Match.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218E The 67th XOR Problem.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184C Huge Pile.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF1921F Sum of Progression.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171F Rae Taylor and Trees (hard ver.).md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2179E Blackslex and Girls.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF797E Array Queries.md",
+    "ATLAS/卷1 数据结构与算法/第0章 杂谈/斐波那契数列.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔代数公式定理和规则.md",
+    "Assets/例11 立方体面的电通量.png",
+    "Assets/例9 无限大带电平面.png",
+    "Assets/例8 无限长带电柱面.png",
+    "Assets/例6 均匀带电球面.png",
+    "Assets/点电荷球面的电通量.png",
+    "Assets/典型带电系统的电场线.png",
+    "Assets/例5 圆盘轴线上的场强.png",
+    "Assets/例4 圆环轴线上的场强.png",
+    "Assets/例3 细棒中垂面上的场强.png",
+    "CF2218G.cpp",
+    "ATLAS/卷5 大学物理/第5章 静电场",
+    "3379_2.cpp",
+    "CF2258B1.cpp",
     "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础",
     "ATLAS/卷9 数字逻辑与数字系统设计",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/随机变量-Random Variables.md",
-    "ATLAS/卷4 Durrett概率论/第1章 测度论/分布-Distributions.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218E The 67th XOR Problem.md",
     "CF2218E.cpp",
     "CF2179E.cpp",
-    "aa0249921ede9c49ad793ad7df413de1.jpg",
     "2680.cpp",
     "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创",
-    "4281.cpp",
-    "4427.cpp",
-    "happy.png",
-    "C58F8D09701F6FDA228E109372DA20D8.png",
-    "Pasted image 20260813141625.png",
-    "Pasted image 20260813141614.png",
-    "Pasted image 20260811153724.png",
-    "Pasted image 20260731201712.png",
-    "Pasted image 20260725164318.png",
-    "Pasted image 20260724170935.png",
-    "Assets/Pasted image 20260620141830.png",
     "未命名.canvas"
   ]
 }
