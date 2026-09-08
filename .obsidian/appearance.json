@@ -9,7 +9,8 @@
   "monospaceFontFamily": "Space Mono",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "inline-code-cyan"
+    "inline-code-cyan",
+    "math-callouts"
   ],
   "textFontFamily": "Outfit,MiSans VF"
 }

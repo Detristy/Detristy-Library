@@ -1,0 +1,32 @@
+/* math-callouts.css — 为自定义数学 callout 上色 + 图标
+   启用：设置 → 外观 → CSS 代码片段 → 启用 math-callouts
+   配色用 --callout-color RGB 三元组，自动适配亮/暗主题。 */
+
+.callout[data-callout="definition"] {
+    --callout-color: 88, 101, 242;    /* 蓝 */
+    --callout-icon: lucide-book-marked;
+}
+.callout[data-callout="theorem"] {
+    --callout-color: 155, 89, 182;    /* 紫 */
+    --callout-icon: lucide-scroll;
+}
+.callout[data-callout="lemma"] {
+    --callout-color: 0, 184, 148;     /* 青 */
+    --callout-icon: lucide-link;
+}
+.callout[data-callout="corollary"] {
+    --callout-color: 46, 204, 113;    /* 绿 */
+    --callout-icon: lucide-git-branch;
+}
+.callout[data-callout="proposition"] {
+    --callout-color: 230, 126, 34;    /* 橙 */
+    --callout-icon: lucide-lightbulb;
+}
+.callout[data-callout="remark"] {
+    --callout-color: 241, 196, 15;    /* 黄 */
+    --callout-icon: lucide-message-circle;
+}
+.callout[data-callout="exercise"] {
+    --callout-color: 232, 67, 147;    /* 粉 */
+    --callout-icon: lucide-pencil;
+}

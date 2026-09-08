@@ -9,5 +9,7 @@
     "downscalePercent": 89
   },
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "tabSize": 5,
+  "vimMode": false
 }
