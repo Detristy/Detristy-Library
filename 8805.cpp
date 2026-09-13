@@ -1,0 +1,81 @@
+#include <bits/stdc++.h>  
+using namespace std;  
+#define int long long  
+#define detristy ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0);  
+  
+const int N = 5e5+10;  
+const int M = 20;  
+  
+vector<int> g[N];  
+int f[N][M+1];  
+int dep[N],deg[N];  
+int dis[N];  
+int n,m;  
+  
+void dfs2(int u,int fa) {  
+    dis[u] = deg[u];  
+    dis[u] += dis[fa];  
+    for (auto v : g[u]) {  
+        if (v != fa) dfs2(v,u);  
+    }  
+}  
+  
+void dfs(int u,int fa) {  
+    dep[u] = dep[fa] + 1;  
+    f[u][0] = fa;  
+    for (int i = 1 ; i <= M ; ++i) {  
+        f[u][i] = f[f[u][i-1]][i-1]; //树上倍增预处理所有的 u 能通过 2^i 步能到达的节点  
+    }  
+    for (auto v : g[u]) if (v != fa) dfs(v,u);  
+}  
+  
+int lca(int u,int v) {  
+    if (dep[u] < dep[v]) swap(u,v);  
+  
+    //让 u 和 v 到达同一层  
+    for (int i = M ; i >= 0 ; i--) {  
+        if (dep[f[u][i]] >= dep[v]) {  
+            u = f[u][i];  
+        }  
+    }  
+    if (u == v) return u;  
+  
+    //两个点一起向上跑  
+    for (int i = M ; i >= 0 ; i--) {  
+        if (f[u][i] != f[v][i]) {  
+            u = f[u][i];  
+            v = f[v][i];  
+        }  
+    }  
+  
+    //此时两个节点任意一个的父节点就是他们的LCA  
+    return f[u][0];  
+}  
+  
+void solve() {  
+    cin >> n >> m;  
+    for (int i = 1 ; i < n ; i++) {  
+        int x,y;  
+        cin >> x >> y;  
+        g[x].push_back(y);  
+        g[y].push_back(x);  
+        deg[x]++;  
+        deg[y]++;  
+    }  
+    dfs2(1,0);  
+    dfs(1,0);  
+    for (int i = 1 ; i <= m ; i++) {  
+        int u,v;  
+        cin >> u >> v;  
+        int d = dis[u] + dis[v] - 2*dis[lca(u,v)] + deg[lca(u,v)];  
+        cout << d << endl;  
+    }  
+}  
+  
+signed main() {  
+    detristy  
+    int T = 1;  
+    //cin >> T;  
+    while (T--) solve();  
+    return 0;  
+}
