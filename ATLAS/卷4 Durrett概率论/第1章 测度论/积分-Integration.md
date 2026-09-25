@@ -85,7 +85,9 @@ tags:
 
 前两条几乎就是定义的字面推论，关键在于第三条（加法），我们拆开来看。
 
-设 $\phi=\sum_{i=1}^{m}a_i\,1_{A_i}$，$\psi=\sum_{j=1}^{n}b_j\,1_{B_j}$。为了让两个函数的「分块」对齐，我们补上两个零块：令 $A_0=\bigcup_j B_j-\bigcup_i A_i$、$B_0=\bigcup_i A_i-\bigcup_j B_j$，并令 $a_0=b_0=0$。这样 $\phi$ 与 $\psi$ 就「共享同一套划分」了，于是
+设 $\phi=\sum_{i=1}^{m}a_i\,1_{A_i}$，$\psi=\sum_{j=1}^{n}b_j\,1_{B_j}$。
+
+为了让两个函数的「分块」对齐，我们补上两个零块：令 $A_0=\bigcup_j B_j-\bigcup_i A_i$、$B_0=\bigcup_i A_i-\bigcup_j B_j$，并令 $a_0=b_0=0$。这样 $\phi$ 与 $\psi$ 就「共享同一套划分」了，于是
 
 $$
 	\phi+\psi=\sum_{i=0}^{m}\sum_{j=0}^{n}(a_i+b_j)\,1_{A_i\cap B_j}
@@ -134,7 +136,9 @@ $$
 >
 > ^def-9f102b
 
-这里必须证明「上确界等于下确界」，定义才是良定的。所谓「良定」（well-defined），说的是：如果一个定义依赖某种「选择」或「表示方式」，就必须先证明这个选择无关紧要，否则同一个对象会被算出两个不同的值，定义就自相矛盾了。这里 $\int f$ 同时用上确界和下确界两种写法给出，所以得先证明它们给出同一个数。记 $\sup_{\phi\leq f}\int\phi=\alpha$、$\inf_{\psi\geq f}\int\psi=\beta$。
+这里必须证明「上确界等于下确界」，定义才是良定的。
+
+所谓「良定」（well-defined），说的是：如果一个定义依赖某种「选择」或「表示方式」，就必须先证明这个选择无关紧要，否则同一个对象会被算出两个不同的值，定义就自相矛盾了。这里 $\int f$ 同时用上确界和下确界两种写法给出，所以得先证明它们给出同一个数。记 $\sup_{\phi\leq f}\int\phi=\alpha$、$\inf_{\psi\geq f}\int\psi=\beta$。
 
 **先证 $\alpha\leq\beta$**：任取 $\phi\leq f\leq\psi$，由 [[#^lem-8e0f2a|引理 1.4.2]] 的 (4) 得 $\int\phi\leq\int\psi$，两边分别取上确界和下确界，即 $\alpha\leq\beta$。
 
@@ -173,7 +177,13 @@ $$
 >
 > ^lem-a1b2c3
 
-(1) 显然（取 $\phi\equiv 0$）。(2) 要分 $a>0$ 与 $a<0$ 讨论：$a>0$ 时「$a\phi\leq af\iff\phi\leq f$」，上确界可提出因子 $a$；$a<0$ 时「$a\phi\leq af\iff\phi\geq f$」，上确界变成了下确界，仍能提出 $a$。(3) 用「$\psi_1\geq f,\ \psi_2\geq g\Rightarrow\psi_1+\psi_2\geq f+g$」先证一个方向，再把结论用于 $-f,-g$ 并配合 (2) 反推另一个方向。(4)-(6) 由 (1)-(3) 套用 [[#^lem-8e0f2a|引理 1.4.2]] 即得。
+(1) 显然（取 $\phi\equiv 0$）。
+
+(2) 要分 $a>0$ 与 $a<0$ 讨论：$a>0$ 时「$a\phi\leq af\iff\phi\leq f$」，上确界可提出因子 $a$；$a<0$ 时「$a\phi\leq af\iff\phi\geq f$」，上确界变成了下确界，仍能提出 $a$。
+
+(3) 用「$\psi_1\geq f,\ \psi_2\geq g\Rightarrow\psi_1+\psi_2\geq f+g$」先证一个方向，再把结论用于 $-f,-g$ 并配合 (2) 反推另一个方向。
+
+(4)-(6) 由 (1)-(3) 套用 [[#^lem-8e0f2a|引理 1.4.2]] 即得。
 
 ## 1.3 非负函数
 

@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bc412d425bfd231b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "主页.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "主页"
+            }
+          },
+          {
             "id": "3ec29eedd8b61740",
             "type": "leaf",
             "pinned": true,
@@ -24,49 +40,105 @@
             }
           },
           {
-            "id": "68c3e8517cf03e19",
+            "id": "4919a1914d505954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第4章 字符串/trie.md",
+                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trie"
+              "title": "布尔函数的卡诺图化简"
             }
           },
           {
-            "id": "c0d36e30e2e000b6",
+            "id": "022290c42c7c145b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P16911 Manhattan Cycle.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P16911 Manhattan Cycle"
-            }
-          },
-          {
-            "id": "e0d2b1b62846e255",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/第6章 散列与其他数据结构/树状数组.md",
+                "file": "ATLAS/卷5 大学物理/第5章 静电场/静电场中的导体.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "树状数组"
+              "title": "静电场中的导体"
+            }
+          },
+          {
+            "id": "df2424e93cf0e785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷5 大学物理/第5章 静电场/高斯定理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "高斯定理"
+            }
+          },
+          {
+            "id": "b256713adc51f5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的代数化简.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "布尔函数的代数化简"
+            }
+          },
+          {
+            "id": "c612b22146c70560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "布尔函数的卡诺图化简"
+            }
+          },
+          {
+            "id": "67bb7b72d4beb7cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的一般形式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "布尔函数的一般形式"
+            }
+          },
+          {
+            "id": "05d8570d3241e281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/逻辑运算的完备集与等价表示.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逻辑运算的完备集与等价表示"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "树状",
+                "query": "与非-与",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.16926193237305
+    "width": 327.5026054382324
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -272,44 +344,47 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "567877727f0c8bf2",
+  "active": "3ec29eedd8b61740",
   "lastOpenFiles": [
-    "StudentTest2.java",
-    "StudentTest.java",
-    "SP18185.cpp",
-    "NC138707H.cpp",
-    "NC138707F.cpp",
-    "NC138707D.cpp",
-    "NC138707B.cpp",
-    "NC138554B.cpp",
-    "CF797E.cpp",
-    "CF2248C.cpp",
-    "CF2248B.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5788 【模板】单调栈.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3985 不开心的金明.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3374 【模板】树状数组 1.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2858 Treats for the Cows.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P1433 吃奶酪.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254C Marenol.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248C Maximize the Score.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2254D Silhouette.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2257C Spying on the Beaver（待补）.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2258B1 Carrot Chopdown (Easy ver.).md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2248B Merge to Match.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218G The 67th Iteration of Counting is Fun.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2218E The 67th XOR Problem.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184C Huge Pile.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2184G Tastiness of Segment.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2179E Blackslex and Girls.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171F Rae Taylor and Trees (hard ver.).md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF1921F Sum of Progression.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF797E Array Queries.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/CodeForces/CF2171D Rae Taylor and Trees (easy ver.).md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Atcoder/ABC264E Blackout 2.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P16920 翻转逆序对.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/HLJCPC2026K 六个核桃.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/JXCPC2025C 虫洞.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/比赛真题/JXCPC2025G 玻璃碎晶.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/逻辑运算的完备集与等价表示.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的一般形式.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/目录.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/目录.md",
+    "主页.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的代数化简.md",
+    "-NATSUKI/TODOLIST.md",
+    "ATLAS/卷5 大学物理/第5章 静电场/高斯定理.md",
+    "ATLAS/卷5 大学物理/第5章 静电场/目录.md",
+    "ATLAS/卷5 大学物理/目录.md",
+    "ATLAS/卷5 大学物理/第5章 静电场/静电场中的导体.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔代数公式定理和规则.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔代数基本概念.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/第2次作业.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/可靠性编码.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/数字系统概述.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/完全确定与不完全确定布尔函数.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/字符的二进制表示.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/最小项与最大项.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P2585 染色二叉树.md",
+    "2585.cpp",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/树形DP.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3698 小Q的棋盘.md",
+    "ATLAS/卷1 数据结构与算法/第1章 动态规划/目录.md",
+    "ATLAS/卷1 数据结构与算法/目录.md",
+    "ATLAS/卷1 数据结构与算法/第8章 搜索 排序 分治与其他/快速排序.md",
+    "3698.cpp",
+    "2d35d0c404fabea0154d773dc84302b2.gif",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md~RF1235e8bb.TMP",
+    "ATLAS/卷9 数字逻辑与数字系统设计/_tmp_kmap.py",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md~RF1234f320.TMP",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第1章 数字逻辑基础/布尔函数的卡诺图化简.md~RF1234692f.TMP",
+    "2996.cpp",
+    "1273.cpp",
+    "CF2227F.cpp",
+    "a0323e9e488ffbe0d43cf4d0bf323efc.png",
+    "CF2227E.cpp",
+    "Assets/sinphi-k拟合曲线.png",
     "Assets/U0-nu拟合曲线.png",
     "Assets/I-U曲线.png",
     "Assets/I-U截止区放大.png",
@@ -317,9 +392,6 @@
     "Pasted image 20260904230138.png",
     "Pasted image 20260813141625.png",
     "Pasted image 20260813141614.png",
-    "Pasted image 20260811153724.png",
-    "Pasted image 20260731201712.png",
-    "Pasted image 20260725164318.png",
     "未命名.canvas"
   ]
 }
