@@ -40,91 +40,35 @@
             }
           },
           {
-            "id": "673b4d71f2a4119f",
+            "id": "ae328216569bf1e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷4 概率论/随机变量及其分布/随机变量函数的分布.md",
+                "file": "ATLAS/卷1 数据结构与算法/第4章 字符串/Manacher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "随机变量函数的分布"
+              "title": "Manacher"
             }
           },
           {
-            "id": "66f0e5ab89449abb",
+            "id": "50b8fa45b7e2ea58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/第4次作业.md",
+                "file": "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/安培环路定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第4次作业"
-            }
-          },
-          {
-            "id": "53d3967df7d03228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5384 雪松果树（树剖+二分）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "P5384 雪松果树（树剖+二分）"
-            }
-          },
-          {
-            "id": "8cf870aba1d03d8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷5 大学物理/第5章 静电场/静电场中的电介质.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "静电场中的电介质"
-            }
-          },
-          {
-            "id": "3e459b02a117a251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷4 概率论/随机变量及其分布/随机变量函数的分布.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "随机变量函数的分布"
-            }
-          },
-          {
-            "id": "4b19f659d12cf251",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ATLAS/卷1 数据结构与算法/-附录A 题目集/鬼点子/星象仪.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "星象仪"
+              "title": "安培环路定理"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,12 +154,11 @@
               "title": "搜索"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.0026054382324
   },
   "right": {
     "id": "a442eb6faf044e69",
@@ -330,37 +273,39 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4b19f659d12cf251",
+  "active": "50b8fa45b7e2ea58",
   "lastOpenFiles": [
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/鸡兔同笼.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/鬼点子/星象仪.md",
-    "ATLAS/卷5 大学物理/第5章 静电场/静电场中的电介质.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/鬼点子",
-    "ATLAS/卷5 大学物理/第5章 静电场/目录.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/毕奥-萨伐尔定律.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/安培环路定理.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/典型载流体的磁场.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/磁通量与磁场的高斯定理.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/基本磁现象与磁感应强度.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场/目录.md",
     "ATLAS/卷5 大学物理/目录.md",
     "主页.md",
-    "-NATSUKI/TODOLIST.md",
+    "ATLAS/卷1 数据结构与算法/第4章 字符串/Manacher.md",
     "ATLAS/卷4 概率论/随机变量及其分布/随机变量函数的分布.md",
+    "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/第4次作业.md",
+    "ATLAS/卷5 大学物理/第5章 静电场/静电场中的电介质.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3805 【模板】Manacher.md",
+    "3805.cpp",
+    "-NATSUKI/TODOLIST.md",
+    "ATLAS/卷5 大学物理/第6章 稳恒电流的磁场",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树上费马点.md",
+    "ATLAS/卷1 数据结构与算法/第2章 树/树上差分.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5384 雪松果树（树剖+二分）.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/鬼点子/星象仪.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/NCEPU原创/鸡兔同笼.md",
+    "ATLAS/卷1 数据结构与算法/-附录A 题目集/鬼点子",
+    "ATLAS/卷5 大学物理/第5章 静电场/目录.md",
     "ATLAS/卷4 概率论/随机变量及其分布/正态分布.md",
     "ATLAS/卷4 概率论/随机变量及其分布/目录.md",
     "ATLAS/卷5 大学物理/第5章 静电场/连续带电体的场强.md",
     "群论教材（第一二章）.md",
     "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/与非门与或非门的逻辑实现.md",
-    "ATLAS/卷8 离散数学 抽象代数/群论/群.md",
-    "ATLAS/卷8 离散数学 抽象代数/目录.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5384 雪松果树（树剖+二分）.md",
     "5384A.cpp",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P3384 【模板】树链剖分.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/树链剖分.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/目录.md",
-    "ATLAS/卷1 数据结构与算法/第0章 杂谈/洛谷综合题单.md",
-    "ATLAS/卷1 数据结构与算法/-附录A 题目集/Luogu/P5836 Milk Visits S.md",
-    "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/第4次作业.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/LCA.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/目录.md",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/欧拉序维护LCA.md",
     "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/附件/逻辑门电路符号对照.png",
-    "ATLAS/卷1 数据结构与算法/第5章 图论/LCA/树链剖分维护LCA.md",
     "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/附件/第4次作业.pdf",
     "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/附件/第2章布尔函数的逻辑实现.pdf",
     "ATLAS/卷9 数字逻辑与数字系统设计/第2章 布尔函数的逻辑实现/附件",
@@ -370,8 +315,6 @@
     "Assets/均匀分布-密度与分布函数.png",
     "ATLAS/卷4 概率论/未命名 1",
     "ATLAS/卷4 概率论/随机变量及其分布",
-    "2585.cpp",
-    "3698.cpp",
     "2d35d0c404fabea0154d773dc84302b2.gif",
     "a0323e9e488ffbe0d43cf4d0bf323efc.png",
     "Assets/sinphi-k拟合曲线.png",
