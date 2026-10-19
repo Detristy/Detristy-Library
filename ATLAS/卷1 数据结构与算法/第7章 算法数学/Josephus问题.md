@@ -74,7 +74,7 @@ int main() {
 ```
 
 # 3. 对数算法
-考虑每次走 $k$ 个删一个，那么一圈能删 $\left\lfloor  \frac{n}{k}  \right\rfloor$ 个，此时剩余 $n-\left\lfloor  \frac{n}{k}  \right\rfloor$ 个人，指针在 $\left\lfloor  \frac{n}{k}  \right\rfloor \times k$ 个人的位置上，此时其等价于 $n-n\mod k$ ，我们继续递归处理，算完后还原其相对位置。复杂度是 $O(k\log n)$ 的。
+考虑每次走 $k$ 个删一个，那么一圈能删 $\left\lfloor  \frac{n}{k}  \right\rfloor$ 个，此时剩余 $n-\left\lfloor  \frac{n}{k}  \right\rfloor$ 个人，指针在 $\left\lfloor  \frac{n}{k}  \right\rfloor \times k$ 个人的位置上，此时其等价于 $n-\left\lfloor  \frac{n}{k}  \right\rfloor\mod k$ ，我们继续递归处理，算完后还原其相对位置。复杂度是 $O(k\log n)$ 的。
 
 ```cpp
 int josephus(int n, int k) {
