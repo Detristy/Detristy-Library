@@ -1,0 +1,5 @@
+---
+tags:
+  - Java
+---
+![[FastScanner.java]]
